@@ -1,0 +1,317 @@
+;URL;obj_scoutId;obj_zipCode;obj_streetPlain;obj_houseNumber;obj_regio1;obj_regio2;obj_regio3;fulladdress;lat;lng
+0;/expose/111413672;111413672;68161;U 5;18;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U 5 18, 68161, Mannheim;49,49063;8,47436
+1;/expose/111432462;111432462;68165;Schwetzinger Str.;149;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwetzinger Str. 149, 68165, Mannheim;49,47579;8,48089
+2;/expose/111455755;111455755;68161;L8;1;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L8 1, 68161, Mannheim;49,48294;8,46754
+3;/expose/111461300;111461300;68229;Strassburger Ring;34;Baden Württemberg;Mannheim;Friedrichsfeld;Strassburger Ring 34, 68229, Mannheim;49,44198;8,58158
+4;/expose/111428507;111428507;68169;Riedfeldstraße;12;Baden Württemberg;Mannheim;Neckarstadt West;Riedfeldstraße 12, 68169, Mannheim;49,49908;8,47041
+5;/expose/111414066;111414066;68305;Gerwigstr.;24;Baden Württemberg;Mannheim;Waldhof;Gerwigstr. 24, 68305, Mannheim;49,51775;8,4731
+6;/expose/111449569;111449569;68199;Schulstr.;1a;Baden Württemberg;Mannheim;Neckarau;Schulstr. 1a, 68199, Mannheim;49,45429;8,48823
+7;/expose/111434823;111434823;68219;Relaisstraße;19;Baden Württemberg;Mannheim;Rheinau;Relaisstraße 19, 68219, Mannheim;49,4370824;8,5246779
+8;/expose/111449572;111449572;68159;C2;11;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;C2 11, 68159, Mannheim;49,48732;8,4644
+9;/expose/111442834;111442834;68167;Mainstraße;51;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Mainstraße 51, 68167, Mannheim;49,49792;8,48663
+10;/expose/111448714;111448714;68259;Hauptstr.;4;Baden Württemberg;Mannheim;Feudenheim;Hauptstr. 4, 68259, Mannheim;49,4859262;8,537261
+11;/expose/111448160;111448160;68259;Hauptstr.;4;Baden Württemberg;Mannheim;Feudenheim;Hauptstr. 4, 68259, Mannheim;49,4859262;8,537261
+12;/expose/111460810;111460810;68163;Feldbergstraße;64;Baden Württemberg;Mannheim;Lindenhof;Feldbergstraße 64, 68163, Mannheim;49,45882;8,47599
+13;/expose/111459032;111459032;68259;Ziethenstraße;22;Baden Württemberg;Mannheim;Feudenheim;Ziethenstraße 22, 68259, Mannheim;49,48847;8,5293
+14;/expose/111419147;111419147;68163;Feldbergstraße;18;Baden Württemberg;Mannheim;Lindenhof;Feldbergstraße 18, 68163, Mannheim;49,46048;8,47159
+15;/expose/109253298;109253298;68165;Augustaanlage;53;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Augustaanlage 53, 68165, Mannheim;49,47993;8,48699
+16;/expose/109145220;109145220;68229;Rappoltsweilerstr.;9;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 9, 68229, Mannheim;49,4400146;8,5778619
+17;/expose/109454229;109454229;68239;Hochstättstraße;1;Baden Württemberg;Mannheim;Seckenheim;Hochstättstraße 1, 68239, Mannheim;49,45184;8,53738
+18;/expose/109499431;109499431;68161;H1;12;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;H1 12, 68161, Mannheim;49,49074;8,46791
+19;/expose/109409081;109409081;68159;F2;10;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;F2 10, 68159, Mannheim;49,4895;8,46565
+20;/expose/109167329;109167329;68305;Gerwigstraße;9;Baden Württemberg;Mannheim;Neckarstadt West;Gerwigstraße 9, 68305, Mannheim;49,51739;8,47321
+21;/expose/109152333;109152333;68165;Richard-Wagner-Str.;63;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Richard-Wagner-Str. 63, 68165, Mannheim;49,4789944;8,4859327
+22;/expose/109144566;109144566;68229;Rappoltsweilerstr.;9;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 9, 68229, Mannheim;49,4400146;8,5778619
+23;/expose/109145162;109145162;68229;Rappoltsweilerstr.;9;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 9, 68229, Mannheim;49,4400146;8,5778619
+24;/expose/111376779;111376779;68165;Augartenstrasse;91;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Augartenstrasse 91, 68165, Mannheim;49,4759;8,4841
+25;/expose/111342836;111342836;68199;Neckarauer Straße;215-217;Baden Württemberg;Mannheim;Lindenhof;Neckarauer Straße 215-217, 68199, Mannheim;49,4661922;8,4856921
+26;/expose/111362061;111362061;68163;Windeckstraße ;50;Baden Württemberg;Mannheim;Lindenhof;Windeckstraße  50, 68163, Mannheim;49,47406;8,4739
+27;/expose/111352441;111352441;68199;im Lohr;8;Baden Württemberg;Mannheim;Lindenhof;im Lohr 8, 68199, Mannheim;49,46432;8,47696
+28;/expose/111336167;111336167;68219;Relaistr.;35-39;Baden Württemberg;Mannheim;Rheinau;Relaistr. 35-39, 68219, Mannheim;49,43427;8,52667
+29;/expose/111361444;111361444;68163;Meerwiesenstraße;64;Baden Württemberg;Mannheim;Lindenhof;Meerwiesenstraße 64, 68163, Mannheim;49,46549;8,46929
+30;/expose/111344609;111344609;68199;Meistersingerstr;5;Baden Württemberg;Mannheim;Lindenhof;Meistersingerstr 5, 68199, Mannheim;49,45748;8,47963
+31;/expose/111369662;111369662;68309;Ida-Dehmel-Ring;68;Baden Württemberg;Mannheim;Käfertal;Ida-Dehmel-Ring 68, 68309, Mannheim;49,50324;8,52646
+32;/expose/111370968;111370968;68305;Alte Frankfurter Str.;10a;Baden Württemberg;Mannheim;Waldhof;Alte Frankfurter Str. 10a, 68305, Mannheim;49,52467;8,48548
+33;/expose/111354734;111354734;68159;Parkring;21;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Parkring 21, 68159, Mannheim;49,48546;8,45572
+34;/expose/111355368;111355368;68199;Hans-Sachs-Ring;9;Baden Württemberg;Mannheim;Lindenhof;Hans-Sachs-Ring 9, 68199, Mannheim;49,45571;8,47962
+35;/expose/111335153;111335153;68165;Viktoriastraße;29;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Viktoriastraße 29, 68165, Mannheim;49,48502;8,48458
+36;/expose/111374293;111374293;68309;Staßfurter Weg;9;Baden Württemberg;Mannheim;Vogelstang;Staßfurter Weg 9, 68309, Mannheim;49,50924;8,54481
+37;/expose/111308862;111308862;68169;Alphornstraße;3;Baden Württemberg;Mannheim;Neckarstadt West;Alphornstraße 3, 68169, Mannheim;49,49795;8,46656
+38;/expose/111324520;111324520;68199;Morchfeldstraße;19a;Baden Württemberg;Mannheim;Neckarau;Morchfeldstraße 19a, 68199, Mannheim;49,45369;8,49784
+39;/expose/111265093;111265093;68305;Freyaplatz;12;Baden Württemberg;Mannheim;Gartenstadt;Freyaplatz 12, 68305, Mannheim;49,52974;8,4928
+40;/expose/111291463;111291463;68259;Amorbacher Str., 18;18;Baden Württemberg;Mannheim;Wallstadt;Amorbacher Str., 18 18, 68259, Mannheim;49,49816;8,54323
+41;/expose/111263042;111263042;68199;Wolframstraße;23;Baden Württemberg;Mannheim;Lindenhof;Wolframstraße 23, 68199, Mannheim;49,45393;8,4799
+42;/expose/111312412;111312412;68163;Feldbergstr.;60;Baden Württemberg;Mannheim;Lindenhof;Feldbergstr. 60, 68163, Mannheim;49,45909;8,47576
+43;/expose/111263052;111263052;68161;T4;T4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T4 T4, 68161, Mannheim;49,49004;8,47173
+44;/expose/92426580;92426580;68165;Rheinhäuserstraße;110;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Rheinhäuserstraße 110, 68165, Mannheim;49,47475;8,48315
+45;/expose/94763921;94763921;68165;Traitteurstrasse;46;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Traitteurstrasse 46, 68165, Mannheim;49,47784;8,48066
+46;/expose/92698791;92698791;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+47;/expose/92314583;92314583;68199;Siegfriedstr.;7-11;Baden Württemberg;Mannheim;Lindenhof;Siegfriedstr. 7-11, 68199, Mannheim;49,451;8,47555
+48;/expose/92698858;92698858;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+49;/expose/92698419;92698419;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+50;/expose/94111156;94111156;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+51;/expose/96348269;96348269;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+52;/expose/93990918;93990918;68219;Karlsruher Str.;36;Baden Württemberg;Mannheim;Rheinau;Karlsruher Str. 36, 68219, Mannheim;49,43056;8,52743
+53;/expose/93325971;93325971;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+54;/expose/98225815;98225815;68167;Waldhofstr.;76;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstr. 76, 68167, Mannheim;49,50361;8,4704
+55;/expose/93109586;93109586;68161;T 3;2-3;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T 3 2-3, 68161, Mannheim;49,49014;8,47082
+56;/expose/92425788;92425788;68165;Rheinhäuserstraße;110;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Rheinhäuserstraße 110, 68165, Mannheim;49,47475;8,48315
+57;/expose/98296078;98296078;68199;Neckarauerstrasse;45;Baden Württemberg;Mannheim;Neckarau;Neckarauerstrasse 45, 68199, Mannheim;49,45715;8,49331
+58;/expose/95267445;95267445;68259;Weiherstraße;10 - 12;Baden Württemberg;Mannheim;Feudenheim;Weiherstraße 10 - 12, 68259, Mannheim;49,48903;8,53187
+59;/expose/107444312;107444312;68305;Gerwigstraße;15;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 15, 68305, Mannheim;49,51739;8,47321
+60;/expose/107479439;107479439;68305;Gerwigstr.;24;Baden Württemberg;Mannheim;Waldhof;Gerwigstr. 24, 68305, Mannheim;49,51775;8,4731
+61;/expose/107421077;107421077;68163;Schwarzwaldstraße;94;Baden Württemberg;Mannheim;Lindenhof;Schwarzwaldstraße 94, 68163, Mannheim;49,46079;8,46444
+62;/expose/107341675;107341675;68169;Gartenfeldstr.;4;Baden Württemberg;Mannheim;Neckarstadt West;Gartenfeldstr. 4, 68169, Mannheim;49,50122;8,47031
+63;/expose/107006954;107006954;68163;Glücksteinallee;24;Baden Württemberg;Mannheim;Lindenhof;Glücksteinallee 24, 68163, Mannheim;49,47413;8,47531
+64;/expose/105623058;105623058;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+65;/expose/105493352;105493352;68167;Käfertaler Straße;30;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler Straße 30, 68167, Mannheim;49,4949;8,48083
+66;/expose/105916314;105916314;68309;Völklinger Straße;28;Baden Württemberg;Mannheim;Käfertal;Völklinger Straße 28, 68309, Mannheim;49,50575;8,51718
+67;/expose/107157286;107157286;68165;Augartenstr.;63;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Augartenstr. 63, 68165, Mannheim;49,47753;8,48211
+68;/expose/105827151;105827151;68239;Freiburger Straße;25;Baden Württemberg;Mannheim;Seckenheim;Freiburger Straße 25, 68239, Mannheim;49,46606;8,56011
+69;/expose/106004860;106004860;68305;Gerwigstraße;13;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 13, 68305, Mannheim;49,51739;8,47321
+70;/expose/105595687;105595687;68159;K;2,33;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;K 2,33, 68159, Mannheim;49,49189;8,46847
+71;/expose/105682668;105682668;68161;L 14;18;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L 14 18, 68161, Mannheim;49,48154;8,47085
+72;/expose/106187532;106187532;68163;Glücksteinallee;24;Baden Württemberg;Mannheim;Lindenhof;Glücksteinallee 24, 68163, Mannheim;49,47413;8,47531
+73;/expose/111505958;111505958;68219;Martinistraße;35;Baden Württemberg;Mannheim;Rheinau;Martinistraße 35, 68219, Mannheim;49,44364;8,52681
+74;/expose/111501410;111501410;68163;Johannes-Hoffart-Straße;24;Baden Württemberg;Mannheim;Neuostheim / Neuhermsheim;Johannes-Hoffart-Straße 24, 68163, Mannheim;49,46433;8,51097
+75;/expose/111516004;111516004;68165;Rheinhäuserstr.;100;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Rheinhäuserstr. 100, 68165, Mannheim;49,47545;8,48246
+76;/expose/111515872;111515872;68165;Rheinhäuserstr.;100;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Rheinhäuserstr. 100, 68165, Mannheim;49,47545;8,48246
+77;/expose/111503315;111503315;68199;Steubenstraße;62;Baden Württemberg;Mannheim;Lindenhof;Steubenstraße 62, 68199, Mannheim;49,458313;8,4798436
+78;/expose/111515906;111515906;68159;B 6;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B 6 8, 68159, Mannheim;49,48797;8,46
+79;/expose/111510104;111510104;68167;Käfertaler;209;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler 209, 68167, Mannheim;49,49864;8,49462
+80;/expose/111504777;111504777;68161;T4;7;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T4 7, 68161, Mannheim;49,49004;8,47173
+81;/expose/111500093;111500093;68169;Pestalozzistraße;9;Baden Württemberg;Mannheim;Neckarstadt West;Pestalozzistraße 9, 68169, Mannheim;49,49955;8,4659
+82;/expose/111520061;111520061;68309;Weißenfelser Weg;4;Baden Württemberg;Mannheim;Vogelstang;Weißenfelser Weg 4, 68309, Mannheim;49,50794;8,54938
+83;/expose/110651604;110651604;68239;Hochstättstraße;1;Baden Württemberg;Mannheim;Seckenheim;Hochstättstraße 1, 68239, Mannheim;49,45184;8,53738
+84;/expose/110688515;110688515;68165;Krappmühlstr.;16;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Krappmühlstr. 16, 68165, Mannheim;49,47576;8,48276
+85;/expose/110484650;110484650;68169;Gärtnerstr.;84;Baden Württemberg;Mannheim;Neckarstadt West;Gärtnerstr. 84, 68169, Mannheim;49,50356;8,46982
+86;/expose/110548586;110548586;68169;Waldhofstraße;76;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstraße 76, 68169, Mannheim;49,50361;8,4704
+87;/expose/110443393;110443393;68165;Seckenheimer Straße;31;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Seckenheimer Straße 31, 68165, Mannheim;49,47988;8,48088
+88;/expose/110555090;110555090;68163;Windeckstraße ;50;Baden Württemberg;Mannheim;Lindenhof;Windeckstraße  50, 68163, Mannheim;49,47406;8,4739
+89;/expose/110531271;110531271;68167;Käfertaler Straße;25;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler Straße 25, 68167, Mannheim;49,49555;8,47764
+90;/expose/110364557;110364557;68163;Emy-Röder-Str.;16;Baden Württemberg;Mannheim;Lindenhof;Emy-Röder-Str. 16, 68163, Mannheim;49,46603;8,51177
+91;/expose/110278763;110278763;68309;Tulpenstraße;6;Baden Württemberg;Mannheim;Käfertal;Tulpenstraße 6, 68309, Mannheim;49,5145;8,51235
+92;/expose/110279045;110279045;68229;Rappoltsweilerstr.;9;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 9, 68229, Mannheim;49,4400146;8,5778619
+93;/expose/111415503;111415503;68161;U5;18;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U5 18, 68161, Mannheim;49,49063;8,47436
+94;/expose/111152459;111152459;68161;N 2,;4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;N 2, 4, 68161, Mannheim;49,48633;8,46618
+95;/expose/78166477;78166477;68169;Stockhornstraße;53;Baden Württemberg;Mannheim;Neckarstadt West;Stockhornstraße 53, 68169, Mannheim;49,50352;8,46511
+96;/expose/48918188;48918188;68167;Melchiorstraße;2;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Melchiorstraße 2, 68167, Mannheim;49,49793;8,47762
+97;/expose/110984856;110984856;68165;Schwetzingerstr.;157;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwetzingerstr. 157, 68165, Mannheim;49,47539;8,48126
+98;/expose/111177271;111177271;68159;G 2;17-18;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;G 2 17-18, 68159, Mannheim;49,49008;8,46619
+99;/expose/110400629;110400629;68163;Johannes-Hoffart-Strasse;2;Baden Württemberg;Mannheim;Neuostheim / Neuhermsheim;Johannes-Hoffart-Strasse 2, 68163, Mannheim;49,46509;8,50949
+100;/expose/111450891;111450891;68309;Birkenauerstraße;9;Baden Württemberg;Mannheim;Käfertal;Birkenauerstraße 9, 68309, Mannheim;49,50986;8,51791
+101;/expose/111357775;111357775;68165;Heinrich-Lanz-Str.;2;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Str. 2, 68165, Mannheim;49,47993;8,47377
+102;/expose/111040387;111040387;68161;T4;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T4 8, 68161, Mannheim;49,49004;8,47173
+103;/expose/111338959;111338959;68159;Hafenstraße;31;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Hafenstraße 31, 68159, Mannheim;49,49594;8,45732
+104;/expose/107170256;107170256;68161;U6;9;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 9, 68161, Mannheim;49,49056;8,47485
+105;/expose/111219205;111219205;68161;U6;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 8, 68161, Mannheim;49,49064;8,4746
+106;/expose/108481693;108481693;68169;Langstraße;41a;Baden Württemberg;Mannheim;Neckarstadt West;Langstraße 41a, 68169, Mannheim;49,49832;8,46656
+107;/expose/107244283;107244283;68161;U6;9;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 9, 68161, Mannheim;49,49056;8,47485
+108;/expose/102824623;102824623;68165;Werderstrasse;30;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Werderstrasse 30, 68165, Mannheim;49,48287;8,48022
+109;/expose/111218531;111218531;68161;Goethestraße;6;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Goethestraße 6, 68161, Mannheim;49,48748;8,47713
+110;/expose/111182109;111182109;68161;U6;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 8, 68161, Mannheim;49,49064;8,4746
+111;/expose/111218937;111218937;68161;U6;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 8, 68161, Mannheim;49,49064;8,4746
+112;/expose/72163231;72163231;68165;Krappmühlstrasse;21;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Krappmühlstrasse 21, 68165, Mannheim;49,47615;8,48314
+113;/expose/111327287;111327287;68309;Ida-Ehre-Weg;2;Baden Württemberg;Mannheim;Käfertal;Ida-Ehre-Weg 2, 68309, Mannheim;49,50281;8,52754
+114;/expose/110796157;110796157;68199;Rosenstrasse;2;Baden Württemberg;Mannheim;Neckarau;Rosenstrasse 2, 68199, Mannheim;49,44935;8,49466
+115;/expose/107619878;107619878;68305;Gerwigstr.;13;Baden Württemberg;Mannheim;Waldhof;Gerwigstr. 13, 68305, Mannheim;49,51739;8,47321
+116;/expose/110622982;110622982;68163;Steubenstrasse;58;Baden Württemberg;Mannheim;Lindenhof;Steubenstrasse 58, 68163, Mannheim;49,4587049;8,479549
+117;/expose/111564583;111564583;68159;Hafenstraße;48;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Hafenstraße 48, 68159, Mannheim;49,4936551;8,4572226
+118;/expose/111219074;111219074;68161;U6;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 8, 68161, Mannheim;49,49064;8,4746
+119;/expose/110729951;110729951;68169;Ackerstraße;29;Baden Württemberg;Mannheim;Neckarstadt West;Ackerstraße 29, 68169, Mannheim;49,50303;8,46255
+120;/expose/110842799;110842799;68167;Käfertalerstraße;41;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertalerstraße 41, 68167, Mannheim;49,49529;8,47928
+121;/expose/110792517;110792517;68239;Kloppenheimerstraße;29a;Baden Württemberg;Mannheim;Seckenheim;Kloppenheimerstraße 29a, 68239, Mannheim;49,46467;8,56223
+122;/expose/110833576;110833576;68169;Bürgermeister-Fuchs-Straße;64;Baden Württemberg;Mannheim;Neckarstadt West;Bürgermeister-Fuchs-Straße 64, 68169, Mannheim;49,50285;8,46629
+123;/expose/110724947;110724947;68305;Gerwigstraße;17;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 17, 68305, Mannheim;49,51739;8,47321
+124;/expose/110700147;110700147;68161;Friedrichsring;38;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Friedrichsring 38, 68161, Mannheim;49,49001;8,47603
+125;/expose/110925070;110925070;68199;Robert-Blum-Str;6;Baden Württemberg;Mannheim;Lindenhof;Robert-Blum-Str 6, 68199, Mannheim;49,4643;8,47806
+126;/expose/110913707;110913707;68159;C 3;16;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;C 3 16, 68159, Mannheim;49,48755;8,46273
+127;/expose/110775378;110775378;68305;Staudenweg;28;Baden Württemberg;Mannheim;Gartenstadt;Staudenweg 28, 68305, Mannheim;49,53274;8,5017
+128;/expose/110789983;110789983;68199;Adlerstraße;41;Baden Württemberg;Mannheim;Neckarau;Adlerstraße 41, 68199, Mannheim;49,45732;8,49104
+129;/expose/60851174;60851174;68159;C 1;2;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;C 1 2, 68159, Mannheim;49,48635;8,46469
+130;/expose/60177351;60177351;68199;Luisenstr.;20;Baden Württemberg;Mannheim;Neckarau;Luisenstr. 20, 68199, Mannheim;49,45468;8,49051
+131;/expose/110185499;110185499;68161;T 4;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T 4 8, 68161, Mannheim;49,485328674316406;8,46988296508789
+132;/expose/111256737;111256737;68165;Heinrich-Lanz-Str.;2;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Str. 2, 68165, Mannheim;49,47993;8,47377
+133;/expose/58086830;58086830;68165;Gluckstr.;1;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Gluckstr. 1, 68165, Mannheim;49,47923;8,48554
+134;/expose/85296119;85296119;68199;Luisenstraße;20;Baden Württemberg;Mannheim;Neckarau;Luisenstraße 20, 68199, Mannheim;49,45468;8,49051
+135;/expose/94932709;94932709;68159;I 7;15;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;I 7 15, 68159, Mannheim;49,49369;8,4633
+136;/expose/109509183;109509183;68305;Gerwigstraße;13;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 13, 68305, Mannheim;49,51739;8,47321
+137;/expose/111536199;111536199;68159;G 7;4 F;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;G 7 4 F, 68159, Mannheim;49,4915589;8,4626423
+138;/expose/107981237;107981237;68167;Carl-Benz-Straße;44;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Carl-Benz-Straße 44, 68167, Mannheim;49,49946;8,47705
+139;/expose/108244119;108244119;68259;Hölderlinstraße;XX;Baden Württemberg;Mannheim;Feudenheim;Hölderlinstraße XX, 68259, Mannheim;49,49545;8,53044
+140;/expose/108434738;108434738;68165;Tullastraße;15;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Tullastraße 15, 68165, Mannheim;49,48582;8,47794
+141;/expose/108209151;108209151;68159;L 14;2;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L 14 2, 68159, Mannheim;49,48192;8,47052
+142;/expose/108767401;108767401;68305;Gerwigstr.;11;Baden Württemberg;Mannheim;Waldhof;Gerwigstr. 11, 68305, Mannheim;49,51739;8,47321
+143;/expose/108892115;108892115;68309;Ida-Dehmel-Ring;68;Baden Württemberg;Mannheim;Käfertal;Ida-Dehmel-Ring 68, 68309, Mannheim;49,50324;8,52646
+144;/expose/108355188;108355188;68229;Zabernerstr;23;Baden Württemberg;Mannheim;Friedrichsfeld;Zabernerstr 23, 68229, Mannheim;49,44231;8,57553
+145;/expose/107809725;107809725;68167;Cannabichstraße;XX;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Cannabichstraße XX, 68167, Mannheim;49,49615;8,48304
+146;/expose/107443601;107443601;68305;Gerwigstraße;15;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 15, 68305, Mannheim;49,51739;8,47321
+147;/expose/108982723;108982723;68305;Gerwigstraße;13;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 13, 68305, Mannheim;49,51739;8,47321
+148;/expose/111278194;111278194;68163;Karl-Ladenburg-Str.;27;Baden Württemberg;Mannheim;Neuostheim / Neuhermsheim;Karl-Ladenburg-Str. 27, 68163, Mannheim;49,48047;8,50698
+149;/expose/110770099;110770099;68165;Heinrich-Lanz-Str.;2;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Str. 2, 68165, Mannheim;49,47993;8,47377
+150;/expose/110143041;110143041;68165;L 8,;5;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L 8, 5, 68165, Mannheim;49,48341;8,46828
+151;/expose/106006750;106006750;68305;Gerwigstraße;23;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 23, 68305, Mannheim;49,51739;8,47321
+152;/expose/110225639;110225639;68167;Nebeniusstraße;7;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Nebeniusstraße 7, 68167, Mannheim;49,49864;8,49074
+153;/expose/87787791;87787791;68161;Q;6, 13;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Q 6, 13, 68161, Mannheim;49,48177;8,46955
+154;/expose/110359273;110359273;68165;Heinrich-Lanz-Str.;4;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Str. 4, 68165, Mannheim;49,47993;8,47377
+155;/expose/109206259;109206259;68165;Heinrich-Lanz-Str.;2;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Str. 2, 68165, Mannheim;49,47993;8,47377
+156;/expose/109876768;109876768;68305;Gerwigstraße;21;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 21, 68305, Mannheim;49,51739;8,47321
+157;/expose/76056871;76056871;68163;Feldbergstr.;82;Baden Württemberg;Mannheim;Lindenhof;Feldbergstr. 82, 68163, Mannheim;49,45975;8,47768
+158;/expose/111553286;111553286;68165;Seckenheimerstr.;4-6;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Seckenheimerstr. 4-6, 68165, Mannheim;49,48144;8,47427
+159;/expose/106007326;106007326;68305;Gerwigstraße;13;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 13, 68305, Mannheim;49,51739;8,47321
+160;/expose/107444782;107444782;68305;Gerwigstraße;15;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 15, 68305, Mannheim;49,51739;8,47321
+161;/expose/110241405;110241405;68165;Heinrich-Lanz-Str.;2;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Str. 2, 68165, Mannheim;49,47993;8,47377
+162;/expose/111531248;111531248;68526;Am Galgbrunnen;6;Baden Württemberg;Rhein Neckar Kreis;Ladenburg;Am Galgbrunnen 6, 68526, Rhein Neckar Kreis;49,4804021;8,5985561
+163;/expose/110296400;110296400;68529;Mozartstraße;35;Baden Württemberg;Rhein Neckar Kreis;Ilvesheim;Mozartstraße 35, 68529, Rhein Neckar Kreis;49,47909;8,55057
+164;/expose/55235191;55235191;68309;Auf dem Sand;4;Baden Württemberg;Mannheim;Käfertal;Auf dem Sand 4, 68309, Mannheim;49,50768;8,50641
+165;/expose/42658348;42658348;68307;Juteweg;2-6;Baden Württemberg;Mannheim;Sandhofen;Juteweg 2-6, 68307, Mannheim;49,53908;8,4511
+166;/expose/48151308;48151308;68199;Hans-Sachs-Ring;14;Baden Württemberg;Mannheim;Lindenhof;Hans-Sachs-Ring 14, 68199, Mannheim;49,4561;8,47838
+167;/expose/51217805;51217805;68161;R1;14a;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;R1 14a, 68161, Mannheim;49,48904;8,46844
+168;/expose/111411226;111411226;69126;Görresstr.;70;Baden Württemberg;Heidelberg;Südstadt;Görresstr. 70, 69126, Heidelberg;49,38819;8,69161
+169;/expose/56883893;56883893;68309;Ida-Dehmel-Ring;40 A;Baden Württemberg;Mannheim;Käfertal;Ida-Dehmel-Ring 40 A, 68309, Mannheim;49,50434;8,53095
+170;/expose/51540846;51540846;68199;Lohengrinstraße;39;Baden Württemberg;Mannheim;Lindenhof;Lohengrinstraße 39, 68199, Mannheim;49,45609;8,47792
+171;/expose/111394272;111394272;68789;Rheinstrasse;130;Baden Württemberg;Rhein Neckar Kreis;Sankt Leon Rot;Rheinstrasse 130, 68789, Rhein Neckar Kreis;49,27373;8,59045
+172;/expose/110463654;110463654;68526;Am Galgbrunnen;6;Baden Württemberg;Rhein Neckar Kreis;Ladenburg;Am Galgbrunnen 6, 68526, Rhein Neckar Kreis;49,4804021;8,5985561
+173;/expose/90103097;90103097;69226;Sinsheimerstraße;67;Baden Württemberg;Rhein Neckar Kreis;Nußloch;Sinsheimerstraße 67, 69226, Rhein Neckar Kreis;49,32263;8,70306
+174;/expose/48290007;48290007;69115;Bergheimer Str.;23;Baden Württemberg;Heidelberg;Bergheim;Bergheimer Str. 23, 69115, Heidelberg;49,40856;8,69003
+175;/expose/60420272;60420272;68161;L;7, 6-6a;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L 7, 6-6a, 68161, Mannheim;49,4827;8,46686
+176;/expose/111290267;111290267;69115;Rohrbacher Straße;6-8;Baden Württemberg;Heidelberg;Bergheim;Rohrbacher Straße 6-8, 69115, Heidelberg;49,40777;8,69225
+177;/expose/107179169;107179169;74889;Eschelbacher Straße;12;Baden Württemberg;Rhein Neckar Kreis;Sinsheim;Eschelbacher Straße 12, 74889, Rhein Neckar Kreis;49,27176;8,83889
+178;/expose/50019436;50019436;68169;Lagerstraße;12;Baden Württemberg;Mannheim;Neckarstadt West;Lagerstraße 12, 68169, Mannheim;49,50871;8,45989
+179;/expose/56333959;56333959;68309;Veilchenstr;1;Baden Württemberg;Mannheim;Käfertal;Veilchenstr 1, 68309, Mannheim;49,50791;8,51038
+180;/expose/111062735;111062735;68199;Sedanstraße;2;Baden Württemberg;Mannheim;Neckarau;Sedanstraße 2, 68199, Mannheim;49,45447;8,48524
+181;/expose/111489174;111489174;68199;Hans-Sachs-Ring;35;Baden Württemberg;Mannheim;Lindenhof;Hans-Sachs-Ring 35, 68199, Mannheim;49,45536;8,47848
+182;/expose/111408149;111408149;68161;L13;7;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L13 7, 68161, Mannheim;49,48146;8,46878
+183;/expose/110419417;110419417;68161;T4;3;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T4 3, 68161, Mannheim;49,4896358;8,4718457
+184;/expose/101481704;101481704;68167;Käfertaler Straße;133;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler Straße 133, 68167, Mannheim;49,4954;8,48853
+185;/expose/80710037;80710037;68199;Lohengrinstr.;39;Baden Württemberg;Mannheim;Lindenhof;Lohengrinstr. 39, 68199, Mannheim;49,45609;8,47792
+186;/expose/110864576;110864576;68161;Q 3;16;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Q 3 16, 68161, Mannheim;49,4878;8,46955
+187;/expose/107599511;107599511;68305;Gerwigstrasse;13;Baden Württemberg;Mannheim;Waldhof;Gerwigstrasse 13, 68305, Mannheim;49,51739;8,47321
+188;/expose/110733086;110733086;68161;T4;3;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T4 3, 68161, Mannheim;49,4896358;8,4718457
+189;/expose/111037983;111037983;68161;T4;3;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;T4 3, 68161, Mannheim;49,4896358;8,4718457
+190;/expose/111139912;111139912;68169;Waldhofstr.;78;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstr. 78, 68169, Mannheim;49,4981;8,47213
+191;/expose/111483248;111483248;68161;S6;20;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;S6 20, 68161, Mannheim;49,48794;8,4756
+192;/expose/111420710;111420710;68165;Schwezinger Str.;28;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwezinger Str. 28, 68165, Mannheim;49,48077;8,4745
+193;/expose/106437698;106437698;68159;B 4;15;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B 4 15, 68159, Mannheim;49,48638;8,46114
+194;/expose/61659716;61659716;68309;Auf dem Sand;47;Baden Württemberg;Mannheim;Käfertal;Auf dem Sand 47, 68309, Mannheim;49,51199;8,5076
+195;/expose/65829255;65829255;68219;Zum Dornbusch;22;Baden Württemberg;Mannheim;Rheinau;Zum Dornbusch 22, 68219, Mannheim;49,44381;8,53686
+196;/expose/60456800;60456800;68239;Kaiserstuhlring;8;Baden Württemberg;Mannheim;Seckenheim;Kaiserstuhlring 8, 68239, Mannheim;49,46464;8,54997
+197;/expose/61797485;61797485;68259;Gottfriedstraße;1 C;Baden Württemberg;Mannheim;Wallstadt;Gottfriedstraße 1 C, 68259, Mannheim;49,49744;8,54612
+198;/expose/65346110;65346110;68259;Amorbacher Straße;16;Baden Württemberg;Mannheim;Wallstadt;Amorbacher Straße 16, 68259, Mannheim;49,49828;8,54339
+199;/expose/61922345;61922345;68309;Caroline-Jagemann-Weg;3;Baden Württemberg;Mannheim;Käfertal;Caroline-Jagemann-Weg 3, 68309, Mannheim;49,5064483;8,5288592
+200;/expose/72450863;72450863;68169;Mittelstraße;24;Baden Württemberg;Mannheim;Neckarstadt West;Mittelstraße 24, 68169, Mannheim;49,4978;8,47111
+201;/expose/75061034;75061034;68159;Holzstr.;xx;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Holzstr. xx, 68159, Mannheim;49,49474;8,4641
+202;/expose/71752204;71752204;68167;Uhlandstraße ;1;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Uhlandstraße  1, 68167, Mannheim;49,4967;8,47863
+203;/expose/60872265;60872265;68309;Enzianstr.;3;Baden Württemberg;Mannheim;Käfertal;Enzianstr. 3, 68309, Mannheim;49,51235;8,51415
+204;/expose/71079695;71079695;68159;B 5,;8;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B 5, 8, 68159, Mannheim;49,4871;8,46096
+205;/expose/70747912;70747912;68165;Schwetzingerstrasse;173;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwetzingerstrasse 173, 68165, Mannheim;49,4743;8,4822
+206;/expose/79101629;79101629;68159;Holzstrasse;9a;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Holzstrasse 9a, 68159, Mannheim;49,49491;8,46405
+207;/expose/68265969;68265969;68159;B 4;4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B 4 4, 68159, Mannheim;49,4868;8,4618
+208;/expose/78293098;78293098;68159;Holzstr.;xx;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Holzstr. xx, 68159, Mannheim;49,49474;8,4641
+209;/expose/62473536;62473536;68161;Collinistr. ;5;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Collinistr.  5, 68161, Mannheim;49,49039;8,47761
+210;/expose/61691681;61691681;68167;Käfertalerstr. ;183;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertalerstr.  183, 68167, Mannheim;49,49685;8,49122
+211;/expose/63913802;63913802;68161;Renzstraße;7;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Renzstraße 7, 68161, Mannheim;49,48916;8,48006
+212;/expose/111232723;111232723;68199;Luisenstr.;15;Baden Württemberg;Mannheim;Neckarau;Luisenstr. 15, 68199, Mannheim;49,45447;8,49073
+213;/expose/111184191;111184191;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+214;/expose/111205688;111205688;68165;Weidenstraße;13;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Weidenstraße 13, 68165, Mannheim;49,47567;8,48626
+215;/expose/111214997;111214997;68165;Traitteurstraße;46;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Traitteurstraße 46, 68165, Mannheim;49,47784;8,48066
+216;/expose/111239059;111239059;68309;Stendaler Weg;1;Baden Württemberg;Mannheim;Vogelstang;Stendaler Weg 1, 68309, Mannheim;49,5079;8,54252
+217;/expose/111183508;111183508;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+218;/expose/111183081;111183081;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+219;/expose/111185187;111185187;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+220;/expose/111184577;111184577;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+221;/expose/111183908;111183908;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+222;/expose/111183736;111183736;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+223;/expose/111184354;111184354;68229;Rappoltsweilerstr.;11;Baden Württemberg;Mannheim;Friedrichsfeld;Rappoltsweilerstr. 11, 68229, Mannheim;49,44001;8,57999
+224;/expose/84516011;84516011;68163;Johannes-Hoffart-Straße;24;Baden Württemberg;Mannheim;Neuostheim / Neuhermsheim;Johannes-Hoffart-Straße 24, 68163, Mannheim;49,46433;8,51097
+225;/expose/90319426;90319426;68167;Waldhofstraße;76;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstraße 76, 68167, Mannheim;49,50361;8,4704
+226;/expose/87729909;87729909;68165;Schwetzingerstr.;37;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwetzingerstr. 37, 68165, Mannheim;49,48027;8,47542
+227;/expose/88273205;88273205;68169;Bürgermeister-Fuchsstr.;17;Baden Württemberg;Mannheim;Neckarstadt West;Bürgermeister-Fuchsstr. 17, 68169, Mannheim;49,5007;8,46276
+228;/expose/83164061;83164061;68309;Gewerbstraße;32;Baden Württemberg;Mannheim;Käfertal;Gewerbstraße 32, 68309, Mannheim;49,51016;8,51355
+229;/expose/89245854;89245854;68305;Tannenstraße;7;Baden Württemberg;Mannheim;Waldhof;Tannenstraße 7, 68305, Mannheim;49,52414;8,48633
+230;/expose/90120973;90120973;68169;Stockhornstr.;45;Baden Württemberg;Mannheim;Neckarstadt West;Stockhornstr. 45, 68169, Mannheim;49,50321;8,46465
+231;/expose/87410544;87410544;68159;K4;7;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;K4 7, 68159, Mannheim;49,49305;8,46756
+232;/expose/89525516;89525516;68167;Käfertaler Straße;30;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler Straße 30, 68167, Mannheim;49,4949;8,48083
+233;/expose/82801546;82801546;68165;Am Oberen Luisenpark;22;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Am Oberen Luisenpark 22, 68165, Mannheim;49,48232;8,49171
+234;/expose/91728305;91728305;68161;L13;13;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L13 13, 68161, Mannheim;49,4813;8,46949
+235;/expose/85145851;85145851;68163;Dragonerweg;39;Baden Württemberg;Mannheim;Neuostheim / Neuhermsheim;Dragonerweg 39, 68163, Mannheim;49,46828;8,50418
+236;/expose/84751076;84751076;68165;Karl-Ludwig-Straße;5;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Karl-Ludwig-Straße 5, 68165, Mannheim;49,48004;8,48147
+237;/expose/111561767;111561767;68159;F 4;18-19;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;F 4 18-19, 68159, Mannheim;49,4897;8,46369
+238;/expose/111574374;111574374;68167;Soironstr.;10;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Soironstr. 10, 68167, Mannheim;49,49766;8,48982
+239;/expose/89505237;89505237;68167;Käfertaler Straße;205;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler Straße 205, 68167, Mannheim;49,49837;8,49413
+240;/expose/111561487;111561487;68159;F 4;20;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;F 4 20, 68159, Mannheim;49,4896;8,46395
+241;/expose/111341649;111341649;68159;B7;16;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B7 16, 68159, Mannheim;49,4887;8,45646
+242;/expose/111574803;111574803;68159;Akademiestraße;12;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Akademiestraße 12, 68159, Mannheim;49,49217;8,45716
+243;/expose/86863670;86863670;68219;Kropsburgstr.;40;Baden Württemberg;Mannheim;Rheinau;Kropsburgstr. 40, 68219, Mannheim;49,44786;8,52044
+244;/expose/111573640;111573640;68161;U6;3;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U6 3, 68161, Mannheim;49,49007;8,47409
+245;/expose/111563926;111563926;65159;Kirchenstr.;1;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Kirchenstr. 1, 65159, Mannheim;49,49242;8,45883
+246;/expose/111577594;111577594;68165;Viehhofstraße;3;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Viehhofstraße 3, 68165, Mannheim;49,47419;8,48258
+247;/expose/111580293;111580293;68159;B2;7;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B2 7, 68159, Mannheim;49,4862;8,46349
+248;/expose/91472965;91472965;68165;Stresemannstr.;22;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Stresemannstr. 22, 68165, Mannheim;49,48552;8,47877
+249;/expose/102602723;102602723;68161;L15;9;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L15 9, 68161, Mannheim;49,48133;8,4704
+250;/expose/103307022;103307022;68309;Thomas-Jefferson-Str.;22;Baden Württemberg;Mannheim;Käfertal;Thomas-Jefferson-Str. 22, 68309, Mannheim;49,51862;8,52709
+251;/expose/100057715;100057715;68161;L 2;14;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L 2 14, 68161, Mannheim;49,48406;8,46437
+252;/expose/102978321;102978321;68199;Heinrich Hoff Straße Ecke Niederfeldstraße;22;Baden Württemberg;Mannheim;Lindenhof;Heinrich Hoff Straße Ecke Niederfeldstraße 22, 68199, Mannheim;49,46178;8,48234
+253;/expose/103790846;103790846;68163;Rheinaustraße;1;Baden Württemberg;Mannheim;Lindenhof;Rheinaustraße 1, 68163, Mannheim;49,47557;8,46793
+254;/expose/101485616;101485616;68167;Kobellstr;17-19;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Kobellstr 17-19, 68167, Mannheim;49,49625;8,48062
+255;/expose/101015430;101015430;68161;U 4,;23;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U 4, 23, 68161, Mannheim;49,49079;8,47342
+256;/expose/102500389;102500389;68159;G4;5-6;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;G4 5-6, 68159, Mannheim;49,49053;8,46525
+257;/expose/104905795;104905795;68167;Eva-Hermann-Str.;33;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Eva-Hermann-Str. 33, 68167, Mannheim;49,50347;8,49147
+258;/expose/104297644;104297644;68159;B5;3-4;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B5 3-4, 68159, Mannheim;49,48674;8,46064
+259;/expose/102939761;102939761;68199;Neckarauerstr.;45;Baden Württemberg;Mannheim;Neckarau;Neckarauerstr. 45, 68199, Mannheim;49,45715;8,49331
+260;/expose/100706344;100706344;68159;Hafenstr.;48-52;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Hafenstr. 48-52, 68159, Mannheim;49,4936551;8,4572226
+261;/expose/102068784;102068784;68167;Lange Rötterstraße;76;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Lange Rötterstraße 76, 68167, Mannheim;49,49736;8,48284
+262;/expose/105103605;105103605;68165;Schwetzingerstr.;157;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwetzingerstr. 157, 68165, Mannheim;49,47539;8,48126
+263;/expose/111076685;111076685;68199;Wolframstraße;9;Baden Württemberg;Mannheim;Lindenhof;Wolframstraße 9, 68199, Mannheim;49,45438;8,4788
+264;/expose/111079892;111079892;68199;Wolframstraße;9;Baden Württemberg;Mannheim;Lindenhof;Wolframstraße 9, 68199, Mannheim;49,45438;8,4788
+265;/expose/111164351;111164351;68309;Schweriner Weg;13;Baden Württemberg;Mannheim;Vogelstang;Schweriner Weg 13, 68309, Mannheim;49,50774;8,53347
+266;/expose/111111193;111111193;68259;Buchenerstrasse;56;Baden Württemberg;Mannheim;Wallstadt;Buchenerstrasse 56, 68259, Mannheim;49,49681;8,54328
+267;/expose/110945303;110945303;68161;M5;1;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;M5 1, 68161, Mannheim;49,48397;8,46737
+268;/expose/110986848;110986848;68161;R 7;24;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;R 7 24, 68161, Mannheim;49,48711;8,47502
+269;/expose/111150993;111150993;68161;U 3;16;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;U 3 16, 68161, Mannheim;49,49219;8,47269
+270;/expose/111390287;111390287;68199;Rheingoldstraße;79;Baden Württemberg;Mannheim;Neckarau;Rheingoldstraße 79, 68199, Mannheim;49,45382;8,48253
+271;/expose/111394681;111394681;68165;Heinrich-Lanz-Straße;12;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Heinrich-Lanz-Straße 12, 68165, Mannheim;49,47993;8,47377
+272;/expose/111399992;111399992;68165;Richard-Wagner Straße;65;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Richard-Wagner Straße 65, 68165, Mannheim;49,4789;8,48609
+273;/expose/111382261;111382261;68169;Waldhofstr.;226;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstr. 226, 68169, Mannheim;49,51224;8,47222
+274;/expose/111399601;111399601;68199;Neckarauer Straße;209;Baden Württemberg;Mannheim;Lindenhof;Neckarauer Straße 209, 68199, Mannheim;49,46613;8,48582
+275;/expose/111379845;111379845;68167;Max-Joseph-Straße;17;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Max-Joseph-Straße 17, 68167, Mannheim;49,49812;8,47488
+276;/expose/111381514;111381514;68163;Windeckstraße;9;Baden Württemberg;Mannheim;Lindenhof;Windeckstraße 9, 68163, Mannheim;49,47372;8,46822
+277;/expose/111394957;111394957;68165;Schwetzinger Straße;47;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Schwetzinger Straße 47, 68165, Mannheim;49,4797;8,47613
+278;/expose/109790855;109790855;68259;Hauptstr.;4-6;Baden Württemberg;Mannheim;Feudenheim;Hauptstr. 4-6, 68259, Mannheim;49,4859262;8,537261
+279;/expose/110255994;110255994;68199;Friedrichstraße;48;Baden Württemberg;Mannheim;Neckarau;Friedrichstraße 48, 68199, Mannheim;49,45289;8,48787
+280;/expose/109745514;109745514;68305;Gerwigstraße;23;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 23, 68305, Mannheim;49,51739;8,47321
+281;/expose/109876890;109876890;68305;Gerwigstraße;21;Baden Württemberg;Mannheim;Waldhof;Gerwigstraße 21, 68305, Mannheim;49,51739;8,47321
+282;/expose/109798620;109798620;68165;Weidenstraße;13;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Weidenstraße 13, 68165, Mannheim;49,47567;8,48626
+283;/expose/109874175;109874175;68169;Am Weingarten;8;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Am Weingarten 8, 68169, Mannheim;49,50795;8,48184
+284;/expose/110240064;110240064;68169;Ackerstr.;18;Baden Württemberg;Mannheim;Neckarstadt West;Ackerstr. 18, 68169, Mannheim;49,50299;8,46259
+285;/expose/109680472;109680472;68199;Neckarauer Str.;215-217;Baden Württemberg;Mannheim;Lindenhof;Neckarauer Str. 215-217, 68199, Mannheim;49,4661922;8,4856921
+286;/expose/110261109;110261109;68199;Friedrichstraße;48;Baden Württemberg;Mannheim;Neckarau;Friedrichstraße 48, 68199, Mannheim;49,45289;8,48787
+287;/expose/110113737;110113737;68239;Rastatter Straße;24;Baden Württemberg;Mannheim;Seckenheim;Rastatter Straße 24, 68239, Mannheim;49,46735;8,55684
+288;/expose/110261489;110261489;68199;Friedrichstraße;48;Baden Württemberg;Mannheim;Neckarau;Friedrichstraße 48, 68199, Mannheim;49,45289;8,48787
+289;/expose/110126440;110126440;68239;Kaiserstuhlring;10;Baden Württemberg;Mannheim;Seckenheim;Kaiserstuhlring 10, 68239, Mannheim;49,4645;8,54984
+290;/expose/109714862;109714862;68219;Neuhofer Straße;1;Baden Württemberg;Mannheim;Rheinau;Neuhofer Straße 1, 68219, Mannheim;49,43438;8,52278
+291;/expose/111493235;111493235;68167;Käfertaler Straße;41;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Käfertaler Straße 41, 68167, Mannheim;49,49529;8,47928
+292;/expose/111480836;111480836;68309;Ida-Dehmel-Ring;28;Baden Württemberg;Mannheim;Käfertal;Ida-Dehmel-Ring 28, 68309, Mannheim;49,50571;8,53002
+293;/expose/111490150;111490150;68199;Traubenstraße;11;Baden Württemberg;Mannheim;Neckarau;Traubenstraße 11, 68199, Mannheim;49,45755;8,48848
+294;/expose/111483146;111483146;68165;Burgstr.;28;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Burgstr. 28, 68165, Mannheim;49,47561;8,48458
+295;/expose/111461895;111461895;68309;Ida-Dehmel-Ring;76;Baden Württemberg;Mannheim;Käfertal;Ida-Dehmel-Ring 76, 68309, Mannheim;49,5039756;8,525905
+296;/expose/111463976;111463976;68259;Elritzenweg;16;Baden Württemberg;Mannheim;Wallstadt;Elritzenweg 16, 68259, Mannheim;49,50075;8,54822
+297;/expose/111480782;111480782;68159;Hafenstraße;31;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Hafenstraße 31, 68159, Mannheim;49,49594;8,45732
+298;/expose/111489984;111489984;68259;Wingertsbuckel;66;Baden Württemberg;Mannheim;Feudenheim;Wingertsbuckel 66, 68259, Mannheim;49,49586;8,52873
+299;/expose/111465919;111465919;68159;C8;6;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;C8 6, 68159, Mannheim;49,48978;8,45805
+300;/expose/111461838;111461838;68163;Rheindammstraße;37;Baden Württemberg;Mannheim;Lindenhof;Rheindammstraße 37, 68163, Mannheim;49,47459;8,46566
+301;/expose/111494435;111494435;68159;F4;14-15;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;F4 14-15, 68159, Mannheim;49,49002;8,46389
+302;/expose/111469145;111469145;68199;Mönchwörthstraße;68;Baden Württemberg;Mannheim;Lindenhof;Mönchwörthstraße 68, 68199, Mannheim;49,4631;8,48728
+303;/expose/111473391;111473391;68199;Neckarauer Straße;199;Baden Württemberg;Mannheim;Lindenhof;Neckarauer Straße 199, 68199, Mannheim;49,4655273;8,4862627
+304;/expose/111496961;111496961;68159;B 6;18;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;B 6 18, 68159, Mannheim;49,48853;8,45846
+305;/expose/111494152;111494152;68165;Seckenheimerstr.;27;Baden Württemberg;Mannheim;Schwetzingerstadt / Oststadt;Seckenheimerstr. 27, 68165, Mannheim;49,48;8,48058
+306;/expose/111479483;111479483;68159;Werftstraße;41;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;Werftstraße 41, 68159, Mannheim;49,49599;8,45771
+307;/expose/111547013;111547013;68169;Waldhofstr.;226;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstr. 226, 68169, Mannheim;49,51224;8,47222
+308;/expose/111558302;111558302;68199;Wolframstr.;6;Baden Württemberg;Mannheim;Lindenhof;Wolframstr. 6, 68199, Mannheim;49,45337;8,47966
+309;/expose/111523717;111523717;68161;L10;13;Baden Württemberg;Mannheim;Innenstadt / Jungbusch;L10 13, 68161, Mannheim;49,48237;8,46872
+310;/expose/111539434;111539434;68169;Waldhofstr.;226;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstr. 226, 68169, Mannheim;49,51224;8,47222
+311;/expose/111547969;111547969;68163;Ernst-Barlach-Allee;33;Baden Württemberg;Mannheim;Neuostheim / Neuhermsheim;Ernst-Barlach-Allee 33, 68163, Mannheim;49,46916;8,50489
+312;/expose/111553415;111553415;68199;Rheingoldstr.;124;Baden Württemberg;Mannheim;Lindenhof;Rheingoldstr. 124, 68199, Mannheim;49,45247;8,47683
+313;/expose/111555561;111555561;68169;Waldhofstr.;226;Baden Württemberg;Mannheim;Neckarstadt Ost / Wohlgelegen;Waldhofstr. 226, 68169, Mannheim;49,51224;8,47222
+314;/expose/111551510;111551510;68163;Eichelsheimerstraße;22;Baden Württemberg;Mannheim;Lindenhof;Eichelsheimerstraße 22, 68163, Mannheim;49,47465;8,46739
+315;/expose/111558181;111558181;68199;Wolframstr.;6;Baden Württemberg;Mannheim;Lindenhof;Wolframstr. 6, 68199, Mannheim;49,45337;8,47966

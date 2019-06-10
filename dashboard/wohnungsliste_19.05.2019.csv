@@ -1,0 +1,525 @@
+;timestamp;URL;obj_scoutId;obj_baseRent;obj_totalRent;obj_zipCode;obj_livingSpace;obj_noRooms;obj_street;obj_streetPlain;obj_houseNumber;obj_regio1;obj_regio2;obj_regio3
+0;2019-05-19 01:26:14.074346;/expose/111413672;111413672;970;1190;68161;97.74;3;U 5;U_5;18;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+1;2019-05-19 01:26:14.608299;/expose/111432462;111432462;580;660;68165;50;2;Schwetzinger Str.;Schwetzinger_Str.;149;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+2;2019-05-19 01:26:15.000943;/expose/111455755;111455755;530;660;68161;52;1;L8;L8;1;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+3;2019-05-19 01:26:15.361551;/expose/111461300;111461300;800;950;68229;77;3;Strassburger Ring;Strassburger_Ring;34;Baden_Württemberg;Mannheim;Friedrichsfeld
+4;2019-05-19 01:26:15.739903;/expose/111428507;111428507;450;618;68169;60;2;"Riedfeldstra&szlig;e";Riedfeldstraße;12;Baden_Württemberg;Mannheim;Neckarstadt_West
+5;2019-05-19 01:26:16.087401;/expose/111414066;111414066;545;714;68305;64.1;2;Gerwigstr.;Gerwigstr.;24;Baden_Württemberg;Mannheim;Waldhof
+6;2019-05-19 01:26:16.525662;/expose/111449569;111449569;1165;1415;68199;126;3;Schulstr.;Schulstr.;1a;Baden_Württemberg;Mannheim;Neckarau
+7;2019-05-19 01:26:16.957497;/expose/111461063;111461063;1100;1400;68259;109;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+8;2019-05-19 01:26:17.321897;/expose/111434823;111434823;1000;1170;68219;110;3;"Relaisstra&szlig;e";Relaisstraße;19;Baden_Württemberg;Mannheim;Rheinau
+9;2019-05-19 01:26:17.680799;/expose/111433162;111433162;420;543;68169;43;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+10;2019-05-19 01:26:18.110286;/expose/111449572;111449572;564;684;68159;47;2;C2;C2;11;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:26:18.598626;/expose/111438206;111438206;950;1100;68305;110;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Waldhof
+12;2019-05-19 01:26:19.112912;/expose/111442834;111442834;720;920;68167;80;4;"Mainstra&szlig;e";Mainstraße;51;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+13;2019-05-19 01:26:19.513658;/expose/111448714;111448714;680;830;68259;57;2;Hauptstr.;Hauptstr.;4;Baden_Württemberg;Mannheim;Feudenheim
+14;2019-05-19 01:26:19.985610;/expose/111448160;111448160;540;660;68259;42;1;Hauptstr.;Hauptstr.;4;Baden_Württemberg;Mannheim;Feudenheim
+15;2019-05-19 01:26:20.353911;/expose/111460810;111460810;680;820;68163;68;2;"Feldbergstra&szlig;e";Feldbergstraße;64;Baden_Württemberg;Mannheim;Lindenhof
+16;2019-05-19 01:26:20.720255;/expose/111459032;111459032;1050;1150;68259;100;4;"Ziethenstra&szlig;e";Ziethenstraße;22;Baden_Württemberg;Mannheim;Feudenheim
+17;2019-05-19 01:26:21.111359;/expose/111429246;111429246;1200;1520;68309;125;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+18;2019-05-19 01:26:21.539535;/expose/111457202;111457202;800;990;68161;70;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+19;2019-05-19 01:26:21.926335;/expose/111419147;111419147;1030;1320;68163;90;3;"Feldbergstra&szlig;e";Feldbergstraße;18;Baden_Württemberg;Mannheim;Lindenhof
+0;2019-05-19 01:36:33.081533;/expose/109253298;109253298;1020;1400;68165;117.5;4;Augustaanlage;Augustaanlage;53;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+1;2019-05-19 01:36:33.429128;/expose/109278431;109278431;1796.07;1996.07;68165;78.09;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+2;2019-05-19 01:36:33.774540;/expose/109130282;109130282;750;1000;68169;84;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+3;2019-05-19 01:36:34.234001;/expose/109505389;109505389;750;;68163;80;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+4;2019-05-19 01:36:34.615792;/expose/109145220;109145220;1286.16;1650.16;68229;111.84;3;Rappoltsweilerstr.;Rappoltsweilerstr.;9;Baden_Württemberg;Mannheim;Friedrichsfeld
+5;2019-05-19 01:36:35.040945;/expose/109294358;109294358;300;450;68169;16;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+6;2019-05-19 01:36:35.430997;/expose/109454229;109454229;350;400;68239;25;1;"Hochst&auml;ttstra&szlig;e";Hochstättstraße;1;Baden_Württemberg;Mannheim;Seckenheim
+7;2019-05-19 01:36:35.933696;/expose/109499431;109499431;420;500;68161;21.68;1;H1;H1;12;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+8;2019-05-19 01:36:36.351328;/expose/109666008;109666008;1390;;68199;108;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+9;2019-05-19 01:36:36.733376;/expose/109409081;109409081;1350;1550;68159;110;5;F2;F2;10;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:36:37.087696;/expose/109167329;109167329;1150;1150;68305;77;3;"Gerwigstra&szlig;e";Gerwigstraße;9;Baden_Württemberg;Mannheim;Neckarstadt_West
+11;2019-05-19 01:36:37.450338;/expose/109679748;109679748;1120;;68199;84;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+12;2019-05-19 01:36:37.842447;/expose/109250813;109250813;2200;2550;68165;170;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+13;2019-05-19 01:36:38.347615;/expose/109152333;109152333;1300;1600;68165;103;4;Richard-Wagner-Str.;Richard-Wagner-Str.;63;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+14;2019-05-19 01:36:38.711917;/expose/109040643;109040643;2000;2250;68161;170;6;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+15;2019-05-19 01:36:39.080538;/expose/108926701;108926701;730;870;68165;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+16;2019-05-19 01:36:39.482381;/expose/108909261;108909261;750;890;68165;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+17;2019-05-19 01:36:39.861148;/expose/109334247;109334247;674;894;68199;89.66;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarau
+18;2019-05-19 01:36:40.233698;/expose/109144566;109144566;1247.64;1599.64;68229;108.49;4;Rappoltsweilerstr.;Rappoltsweilerstr.;9;Baden_Württemberg;Mannheim;Friedrichsfeld
+19;2019-05-19 01:36:40.562656;/expose/109145162;109145162;1108.14;1427.14;68229;96.36;2;Rappoltsweilerstr.;Rappoltsweilerstr.;9;Baden_Württemberg;Mannheim;Friedrichsfeld
+0;2019-05-19 01:28:31.971563;/expose/111376779;111376779;650;840;68165;49;2;Augartenstrasse;Augartenstrasse;91;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+1;2019-05-19 01:28:32.463708;/expose/111352228;111352228;420;420;68259;42;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Wallstadt
+2;2019-05-19 01:28:32.906934;/expose/111344713;111344713;600;800;68219;74;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Rheinau
+3;2019-05-19 01:28:33.253266;/expose/111342836;111342836;330;430;68199;25;1;"Neckarauer Stra&szlig;e";Neckarauer_Straße;215-217;Baden_Württemberg;Mannheim;Lindenhof
+4;2019-05-19 01:28:33.620697;/expose/111362061;111362061;634.65;763.65;68163;53.32;2;"Windeckstra&szlig;e ";Windeckstraße_;50;Baden_Württemberg;Mannheim;Lindenhof
+5;2019-05-19 01:28:33.985344;/expose/111341095;111341095;810;890;68161;73;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+6;2019-05-19 01:28:34.316080;/expose/111352441;111352441;850;1000;68199;80;2;im Lohr;im_Lohr;8;Baden_Württemberg;Mannheim;Lindenhof
+7;2019-05-19 01:28:34.751112;/expose/111336167;111336167;1030;1215;68219;103;4;Relaistr.;Relaistr.;35-39;Baden_Württemberg;Mannheim;Rheinau
+8;2019-05-19 01:28:35.140960;/expose/111361444;111361444;1150;1290;68163;89;4;"Meerwiesenstra&szlig;e";Meerwiesenstraße;64;Baden_Württemberg;Mannheim;Lindenhof
+9;2019-05-19 01:28:35.491571;/expose/111355687;111355687;1150;1400;68165;100;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+10;2019-05-19 01:28:35.928301;/expose/111344609;111344609;600;600;68199;50;2;Meistersingerstr;Meistersingerstr;5;Baden_Württemberg;Mannheim;Lindenhof
+11;2019-05-19 01:28:36.300069;/expose/111373065;111373065;780;980;68167;91;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+12;2019-05-19 01:28:36.704439;/expose/111335538;111335538;340;;68159;28.5;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+13;2019-05-19 01:28:37.076982;/expose/111352541;111352541;450;600;68199;49;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+14;2019-05-19 01:28:37.418187;/expose/111369662;111369662;800;1090;68309;93.97;4;Ida-Dehmel-Ring;Ida-Dehmel-Ring;68;Baden_Württemberg;Mannheim;Käfertal
+15;2019-05-19 01:28:37.883212;/expose/111370968;111370968;290;350;68305;22;1;Alte Frankfurter Str.;Alte_Frankfurter_Str.;10a;Baden_Württemberg;Mannheim;Waldhof
+16;2019-05-19 01:28:38.291615;/expose/111354734;111354734;260;350;68159;21.02;1;Parkring;Parkring;21;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+17;2019-05-19 01:28:38.661450;/expose/111355368;111355368;645;905;68199;75;3;Hans-Sachs-Ring;Hans-Sachs-Ring;9;Baden_Württemberg;Mannheim;Lindenhof
+18;2019-05-19 01:28:39.039653;/expose/111335153;111335153;400;500;68165;28;1;"Viktoriastra&szlig;e";Viktoriastraße;29;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:28:39.417240;/expose/111374293;111374293;623;923;68309;77.84;3;"Sta&szlig;furter Weg";Staßfurter_Weg;9;Baden_Württemberg;Mannheim;Vogelstang
+0;2019-05-19 01:29:40.604953;/expose/111308862;111308862;880;1200;68169;92.7;3.5;"Alphornstra&szlig;e";Alphornstraße;3;Baden_Württemberg;Mannheim;Neckarstadt_West
+1;2019-05-19 01:29:41.004710;/expose/111324520;111324520;460;500;68199;51;2;"Morchfeldstra&szlig;e";Morchfeldstraße;19a;Baden_Württemberg;Mannheim;Neckarau
+2;2019-05-19 01:29:41.332196;/expose/111297740;111297740;540;600;68169;46;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+3;2019-05-19 01:29:41.698781;/expose/111276593;111276593;550;690;68309;43;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+4;2019-05-19 01:29:42.143247;/expose/111265093;111265093;805.4;1115.4;68305;94.75;3;Freyaplatz;Freyaplatz;12;Baden_Württemberg;Mannheim;Gartenstadt
+5;2019-05-19 01:29:42.516839;/expose/111293608;111293608;550;600;68159;40;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:29:42.877512;/expose/111293454;111293454;900;970;68159;70;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:29:43.281875;/expose/111291463;111291463;550;710;68259;58;2;Amorbacher Str., 18;Amorbacher_Str.,_18;18;Baden_Württemberg;Mannheim;Wallstadt
+8;2019-05-19 01:29:43.751164;/expose/111263042;111263042;1438.3;2068.3;68199;169;5;"Wolframstra&szlig;e";Wolframstraße;23;Baden_Württemberg;Mannheim;Lindenhof
+9;2019-05-19 01:29:44.218341;/expose/111307435;111307435;540;;68159;40;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:29:44.558509;/expose/111261220;111261220;800;1080;68161;90;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:29:44.994652;/expose/111319572;111319572;650;830;68239;72;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+12;2019-05-19 01:29:45.429325;/expose/111289005;111289005;1350;1600;68165;100;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+13;2019-05-19 01:29:45.900473;/expose/111312412;111312412;1090;1440;68163;91;3;Feldbergstr.;Feldbergstr.;60;Baden_Württemberg;Mannheim;Lindenhof
+14;2019-05-19 01:29:46.452466;/expose/111256416;111256416;770;990;68167;90.78;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+15;2019-05-19 01:29:46.825816;/expose/111251757;111251757;620;740;68163;59;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+16;2019-05-19 01:29:47.233761;/expose/111307083;111307083;850;;68163;89.45;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+17;2019-05-19 01:29:47.583443;/expose/111325918;111325918;700;995;68309;65;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+18;2019-05-19 01:29:48.036763;/expose/111288480;111288480;580;730;68159;50;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+19;2019-05-19 01:29:48.414037;/expose/111263052;111263052;990;;68161;81;2;T4;T4;T4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+0;2019-05-19 01:41:11.219355;/expose/98226194;98226194;1600;1800.0;68159;150;5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+1;2019-05-19 01:41:11.673470;/expose/92426580;92426580;520;;68165;58;1.5;"Rheinh&auml;userstra&szlig;e";Rheinhäuserstraße;110;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+2;2019-05-19 01:41:12.085029;/expose/94763921;94763921;520;;68165;35;1.5;Traitteurstrasse;Traitteurstrasse;46;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+3;2019-05-19 01:41:12.537883;/expose/92698791;92698791;380;460.0;68159;23;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+4;2019-05-19 01:41:12.874329;/expose/92314583;92314583;950;1190.0;68199;75;2.5;Siegfriedstr.;Siegfriedstr.;7-11;Baden_Württemberg;Mannheim;Lindenhof
+5;2019-05-19 01:41:13.252090;/expose/92698858;92698858;500;600.0;68159;30;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:41:13.680959;/expose/92698419;92698419;490;580.0;68159;28;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:41:14.041886;/expose/94111156;94111156;490;600.0;68159;30;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+8;2019-05-19 01:41:14.374793;/expose/93232152;93232152;270;340.0;68239;110;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+9;2019-05-19 01:41:14.768296;/expose/96348269;96348269;390;480.0;68159;22;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:41:15.091120;/expose/93990918;93990918;420;500.0;68219;58;2;Karlsruher Str.;Karlsruher_Str.;36;Baden_Württemberg;Mannheim;Rheinau
+11;2019-05-19 01:41:15.794085;/expose/93325971;93325971;380;460.0;68159;20;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:41:16.201751;/expose/98225815;98225815;1000;;68167;104;4;Waldhofstr.;Waldhofstr.;76;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+13;2019-05-19 01:41:16.626578;/expose/93501492;93501492;300;390.0;68305;21;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Gartenstadt
+14;2019-05-19 01:41:16.999875;/expose/93109586;93109586;450;450.0;68161;25;1;T 3;T_3;2-3;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+15;2019-05-19 01:41:17.393592;/expose/92425788;92425788;325;;68165;28;1;"Rheinh&auml;userstra&szlig;e";Rheinhäuserstraße;110;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+16;2019-05-19 01:41:17.979455;/expose/93899243;93899243;700;930.0;68199;70;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+17;2019-05-19 01:41:18.353920;/expose/98296078;98296078;350;425.0;68199;25;1;Neckarauerstrasse;Neckarauerstrasse;45;Baden_Württemberg;Mannheim;Neckarau
+18;2019-05-19 01:41:18.699297;/expose/95267445;95267445;630;780.0;68259;57.24;2;"Weiherstra&szlig;e";Weiherstraße;10 - 12;Baden_Württemberg;Mannheim;Feudenheim
+19;2019-05-19 01:41:19.047181;/expose/93235667;93235667;720;880.0;68259;65;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+0;2019-05-19 01:38:52.675880;/expose/105442942;105442942;610;720.0;68167;54;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+1;2019-05-19 01:38:53.080304;/expose/107444312;107444312;1275;1560.0;68305;95.42;3;"Gerwigstra&szlig;e";Gerwigstraße;15;Baden_Württemberg;Mannheim;Waldhof
+2;2019-05-19 01:38:53.589359;/expose/107479439;107479439;820;1045.0;68305;101.74;3;Gerwigstr.;Gerwigstr.;24;Baden_Württemberg;Mannheim;Waldhof
+3;2019-05-19 01:38:53.945746;/expose/107421077;107421077;1190;1390.0;68163;96;3;"Schwarzwaldstra&szlig;e";Schwarzwaldstraße;94;Baden_Württemberg;Mannheim;Lindenhof
+4;2019-05-19 01:38:54.486764;/expose/107341675;107341675;580;760.0;68169;73;3;Gartenfeldstr.;Gartenfeldstr.;4;Baden_Württemberg;Mannheim;Neckarstadt_West
+5;2019-05-19 01:38:54.880758;/expose/107006954;107006954;1700;2050.0;68163;145;5;"Gl&uuml;cksteinallee";Glücksteinallee;24;Baden_Württemberg;Mannheim;Lindenhof
+6;2019-05-19 01:38:55.331516;/expose/105623058;105623058;390;480.0;68159;24;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:38:55.702594;/expose/105493352;105493352;650;750.0;68167;60;2;"K&auml;fertaler Stra&szlig;e";Käfertaler_Straße;30;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+8;2019-05-19 01:38:56.088718;/expose/105916314;105916314;860;1040.0;68309;86;3;"V&ouml;lklinger Stra&szlig;e";Völklinger_Straße;28;Baden_Württemberg;Mannheim;Käfertal
+9;2019-05-19 01:38:56.502570;/expose/105494885;105494885;1200;;68163;80;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+10;2019-05-19 01:38:56.913600;/expose/107157286;107157286;1600;1800.0;68165;120;2;Augartenstr.;Augartenstr.;63;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+11;2019-05-19 01:38:57.391233;/expose/105827151;105827151;890;1165.0;68239;99;3;"Freiburger Stra&szlig;e";Freiburger_Straße;25;Baden_Württemberg;Mannheim;Seckenheim
+12;2019-05-19 01:38:57.801535;/expose/107625235;107625235;695;695.0;68161;28;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+13;2019-05-19 01:38:58.323878;/expose/106893406;106893406;600;800.0;68239;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+14;2019-05-19 01:38:58.720863;/expose/106004860;106004860;1510;1810.0;68305;100.72;3;"Gerwigstra&szlig;e";Gerwigstraße;13;Baden_Württemberg;Mannheim;Waldhof
+15;2019-05-19 01:38:59.052716;/expose/105595687;105595687;550;730.0;68159;60;2;K;K;2,33;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:38:59.410393;/expose/105597722;105597722;490;590.0;68165;39.4;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+17;2019-05-19 01:38:59.808242;/expose/105682668;105682668;1250;1500.0;68161;112;4;L 14;L_14;18;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+18;2019-05-19 01:39:00.393468;/expose/106187532;106187532;1445;1715.0;68163;116;4;"Gl&uuml;cksteinallee";Glücksteinallee;24;Baden_Württemberg;Mannheim;Lindenhof
+19;2019-05-19 01:39:00.766307;/expose/107082809;107082809;700;;68163;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+0;2019-05-19 01:23:57.471344;/expose/111521025;111521025;700;890;68309;83;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Vogelstang
+1;2019-05-19 01:23:57.921246;/expose/111497079;111497079;360;460;68309;52;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+2;2019-05-19 01:23:58.266409;/expose/111501081;111501081;690;;68169;89;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+3;2019-05-19 01:23:58.751685;/expose/111505958;111505958;295;340;68219;16;1;"Martinistra&szlig;e";Martinistraße;35;Baden_Württemberg;Mannheim;Rheinau
+4;2019-05-19 01:23:59.158255;/expose/111497588;111497588;550;620;68159;44;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+5;2019-05-19 01:23:59.590900;/expose/111501410;111501410;663;816;68163;66;2;"Johannes-Hoffart-Stra&szlig;e";Johannes-Hoffart-Straße;24;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+6;2019-05-19 01:24:00.078185;/expose/111512453;111512453;420;545;68167;42;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+7;2019-05-19 01:24:00.424253;/expose/111516004;111516004;340;460;68165;41;1;"Rheinh&auml;userstr.";Rheinhäuserstr.;100;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+8;2019-05-19 01:24:00.786268;/expose/111515872;111515872;410;540;68165;42;1;"Rheinh&auml;userstr.";Rheinhäuserstr.;100;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+9;2019-05-19 01:24:01.109470;/expose/111503315;111503315;800;1030;68199;81;3.5;"Steubenstra&szlig;e";Steubenstraße;62;Baden_Württemberg;Mannheim;Lindenhof
+10;2019-05-19 01:24:01.457756;/expose/111515906;111515906;830;970;68159;67;2;B 6;B_6;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:24:01.853185;/expose/111514491;111514491;1810;2110;68159;123.71;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:24:02.204630;/expose/111499646;111499646;477;587;68165;39;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+13;2019-05-19 01:24:02.644968;/expose/111513124;111513124;675;;68161;79;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+14;2019-05-19 01:24:03.080524;/expose/111510104;111510104;620;740;68167;60;2;"K&auml;fertaler";Käfertaler;209;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+15;2019-05-19 01:24:03.481796;/expose/111504777;111504777;910;1090;68161;56.6;2;T4;T4;7;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:24:03.868233;/expose/111503601;111503601;350;430;68169;24;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+17;2019-05-19 01:24:04.218762;/expose/111500093;111500093;320;420;68169;25;1;"Pestalozzistra&szlig;e";Pestalozzistraße;9;Baden_Württemberg;Mannheim;Neckarstadt_West
+18;2019-05-19 01:24:04.573270;/expose/111520061;111520061;350;470;68309;28.73;1;"Wei&szlig;enfelser Weg";Weißenfelser_Weg;4;Baden_Württemberg;Mannheim;Vogelstang
+19;2019-05-19 01:24:04.914264;/expose/111511426;111511426;540;635.5;68161;46;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+0;2019-05-19 01:34:15.750603;/expose/110651604;110651604;1000;1250;68239;100;4;"Hochst&auml;ttstra&szlig;e";Hochstättstraße;1;Baden_Württemberg;Mannheim;Seckenheim
+1;2019-05-19 01:34:16.252793;/expose/110600263;110600263;570;;68259;48;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+2;2019-05-19 01:34:16.694661;/expose/110688515;110688515;840;990;68165;70;2.5;"Krappm&uuml;hlstr.";Krappmühlstr.;16;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+3;2019-05-19 01:34:17.062521;/expose/110363499;110363499;610;;68309;70;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+4;2019-05-19 01:34:17.432880;/expose/110358394;110358394;750;880;68307;78;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Sandhofen
+5;2019-05-19 01:34:17.797809;/expose/110665341;110665341;1050;1250;68165;85;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+6;2019-05-19 01:34:18.337395;/expose/110522656;110522656;1250;1450;68259;100;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+7;2019-05-19 01:34:18.691857;/expose/110484650;110484650;640;795;68169;71;2.5;"G&auml;rtnerstr.";Gärtnerstr.;84;Baden_Württemberg;Mannheim;Neckarstadt_West
+8;2019-05-19 01:34:19.109625;/expose/110548586;110548586;870;;68169;82;3;"Waldhofstra&szlig;e";Waldhofstraße;76;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+9;2019-05-19 01:34:19.478914;/expose/110443393;110443393;250;350;68165;13;1;"Seckenheimer Stra&szlig;e";Seckenheimer_Straße;31;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+10;2019-05-19 01:34:19.882389;/expose/110555090;110555090;588.56;724.56;68163;47.86;2;"Windeckstra&szlig;e ";Windeckstraße_;50;Baden_Württemberg;Mannheim;Lindenhof
+11;2019-05-19 01:34:20.281668;/expose/110626211;110626211;1550;1550;68165;83;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+12;2019-05-19 01:34:20.685786;/expose/110476176;110476176;1980;2430;68161;139;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+13;2019-05-19 01:34:21.051664;/expose/110322352;110322352;520;670;68239;38;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+14;2019-05-19 01:34:21.432704;/expose/110531271;110531271;820;1000;68167;89;3;"K&auml;fertaler Stra&szlig;e";Käfertaler_Straße;25;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+15;2019-05-19 01:34:21.831442;/expose/110364557;110364557;1100;1300;68163;107;4;"Emy-R&ouml;der-Str.";Emy-Röder-Str.;16;Baden_Württemberg;Mannheim;Lindenhof
+16;2019-05-19 01:34:22.202515;/expose/110462072;110462072;380;;68309;45;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+17;2019-05-19 01:34:22.598923;/expose/110278763;110278763;650;780;68309;68;2;"Tulpenstra&szlig;e";Tulpenstraße;6;Baden_Württemberg;Mannheim;Käfertal
+18;2019-05-19 01:34:23.079480;/expose/110400782;110400782;1080;;68219;135;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Rheinau
+19;2019-05-19 01:34:23.500999;/expose/110279045;110279045;772.92;1010.92;68229;67.21;2;Rappoltsweilerstr.;Rappoltsweilerstr.;9;Baden_Württemberg;Mannheim;Friedrichsfeld
+0;2019-05-19 01:18:10.526782;/expose/110641152;110641152;1200;1365.0;68165;57.5;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+1;2019-05-19 01:18:10.933832;/expose/111415503;111415503;924;1124.0;68161;83.63;3;U5;U5;18;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+2;2019-05-19 01:18:11.408478;/expose/111152459;111152459;575;670.0;68161;29.48;1;N 2,;N_2,;4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+3;2019-05-19 01:18:12.040277;/expose/108323444;108323444;2050;2465.0;68161;180;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+4;2019-05-19 01:18:12.580919;/expose/78166477;78166477;1000;1120.0;68169;123;4;"Stockhornstra&szlig;e";Stockhornstraße;53;Baden_Württemberg;Mannheim;Neckarstadt_West
+5;2019-05-19 01:18:12.954692;/expose/110423427;110423427;1000;;68305;85;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Waldhof
+6;2019-05-19 01:18:13.349530;/expose/111054296;111054296;350;;68259;31;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+7;2019-05-19 01:18:13.752664;/expose/48918188;48918188;1250;1500.0;68167;125;3;"Melchiorstra&szlig;e";Melchiorstraße;2;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+8;2019-05-19 01:18:14.096138;/expose/110710901;110710901;1800;;68165;125;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+9;2019-05-19 01:18:14.479086;/expose/111208055;111208055;800;;68307;110;3.5;"Riedg&auml;rtenstra&szlig;e";Riedgärtenstraße;xxx;Baden_Württemberg;Mannheim;Sandhofen
+10;2019-05-19 01:18:14.839446;/expose/110984856;110984856;520;650.0;68165;48.3;1.5;Schwetzingerstr.;Schwetzingerstr.;157;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+11;2019-05-19 01:18:15.247119;/expose/111177271;111177271;670;870.0;68159;67;2;G 2;G_2;17-18;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:18:15.694225;/expose/109532111;109532111;2350;3010.0;68165;158;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+13;2019-05-19 01:18:16.154282;/expose/110630146;110630146;650;800.0;68259;55;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+14;2019-05-19 01:18:16.564070;/expose/110400629;110400629;1250;1450.0;68163;85;3;Johannes-Hoffart-Strasse;Johannes-Hoffart-Strasse;2;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+15;2019-05-19 01:18:16.961768;/expose/111450891;111450891;1050;1375.0;68309;115;5;"Birkenauerstra&szlig;e";Birkenauerstraße;9;Baden_Württemberg;Mannheim;Käfertal
+16;2019-05-19 01:18:17.383507;/expose/111357775;111357775;540;630.0;68165;30.44;1;Heinrich-Lanz-Str.;Heinrich-Lanz-Str.;2;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+17;2019-05-19 01:18:17.760032;/expose/111040387;111040387;1120;1360.0;68161;81;2;T4;T4;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+18;2019-05-19 01:18:18.150003;/expose/111082285;111082285;2800;3250.0;68165;230;4.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:18:18.531619;/expose/111338959;111338959;1100;1490.0;68159;72.97;2;"Hafenstra&szlig;e";Hafenstraße;31;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+0;2019-05-19 01:19:19.862223;/expose/111108082;111108082;850;1000.0;68199;86;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarau
+1;2019-05-19 01:19:20.363240;/expose/107170256;107170256;690;810.0;68161;33.5;1;U6;U6;9;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+2;2019-05-19 01:19:20.753485;/expose/111219205;111219205;1450;;68161;123.5;4.5;U6;U6;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+3;2019-05-19 01:19:21.172443;/expose/108481693;108481693;790;990.0;68169;92;4;"Langstra&szlig;e";Langstraße;41a;Baden_Württemberg;Mannheim;Neckarstadt_West
+4;2019-05-19 01:19:21.537813;/expose/107244283;107244283;1000;1200.0;68161;83.5;3;U6;U6;9;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+5;2019-05-19 01:19:21.921183;/expose/102824623;102824623;580;700.0;68165;45;1.5;Werderstrasse;Werderstrasse;30;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+6;2019-05-19 01:19:22.479902;/expose/111218531;111218531;1950;2290.0;68161;150;1.5;"Goethestra&szlig;e";Goethestraße;6;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+7;2019-05-19 01:19:22.857575;/expose/111182109;111182109;1000;1150.0;68161;64;2;U6;U6;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+8;2019-05-19 01:19:23.260555;/expose/111218937;111218937;890;1020.0;68161;55;2;U6;U6;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+9;2019-05-19 01:19:23.788122;/expose/110979376;110979376;1890;2150.0;68161;132;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+10;2019-05-19 01:19:24.194005;/expose/72163231;72163231;700;840.0;68165;54.9;2;"Krappm&uuml;hlstrasse";Krappmühlstrasse;21;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+11;2019-05-19 01:19:24.547802;/expose/111327287;111327287;848;998.0;68309;70;3.5;Ida-Ehre-Weg;Ida-Ehre-Weg;2;Baden_Württemberg;Mannheim;Käfertal
+12;2019-05-19 01:19:24.900040;/expose/110796157;110796157;850;1000.0;68199;63;3;Rosenstrasse;Rosenstrasse;2;Baden_Württemberg;Mannheim;Neckarau
+13;2019-05-19 01:19:25.330018;/expose/107619878;107619878;1436;1723.0;68305;95.74;3;Gerwigstr.;Gerwigstr.;13;Baden_Württemberg;Mannheim;Waldhof
+14;2019-05-19 01:19:25.707694;/expose/111571618;111571618;420;500.0;68239;56;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+15;2019-05-19 01:19:26.106902;/expose/67374097;67374097;830;;68167;85;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+16;2019-05-19 01:19:26.460242;/expose/111576831;111576831;980;1180.0;68259;78;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+17;2019-05-19 01:19:26.861494;/expose/110622982;110622982;1025;1225.0;68163;79.38;2;Steubenstrasse;Steubenstrasse;58;Baden_Württemberg;Mannheim;Lindenhof
+18;2019-05-19 01:19:27.228687;/expose/111564583;111564583;340;450.0;68159;24;1;"Hafenstra&szlig;e";Hafenstraße;48;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+19;2019-05-19 01:19:27.725417;/expose/111219074;111219074;980;1000.0;68161;62.5;2;U6;U6;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+0;2019-05-19 01:33:06.899122;/expose/110729951;110729951;688;868.0;68169;81;3;"Ackerstra&szlig;e";Ackerstraße;29;Baden_Württemberg;Mannheim;Neckarstadt_West
+1;2019-05-19 01:33:07.332884;/expose/110875462;110875462;380;;68165;33.7;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+2;2019-05-19 01:33:07.734808;/expose/110842799;110842799;630;780.0;68167;74;2;"K&auml;fertalerstra&szlig;e";Käfertalerstraße;41;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+3;2019-05-19 01:33:08.133219;/expose/110792517;110792517;1200;1400.0;68239;106;3;"Kloppenheimerstra&szlig;e";Kloppenheimerstraße;29a;Baden_Württemberg;Mannheim;Seckenheim
+4;2019-05-19 01:33:08.663693;/expose/110732194;110732194;1300;1300.0;68169;130;5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+5;2019-05-19 01:33:09.046076;/expose/110833576;110833576;430;550.0;68169;35;1;"B&uuml;rgermeister-Fuchs-Stra&szlig;e";Bürgermeister-Fuchs-Straße;64;Baden_Württemberg;Mannheim;Neckarstadt_West
+6;2019-05-19 01:33:09.404623;/expose/110724947;110724947;2140;2590.0;68305;170.17;4;"Gerwigstra&szlig;e";Gerwigstraße;17;Baden_Württemberg;Mannheim;Waldhof
+7;2019-05-19 01:33:09.847335;/expose/110700147;110700147;1150;1250.0;68161;95;3;Friedrichsring;Friedrichsring;38;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+8;2019-05-19 01:33:10.319867;/expose/110886321;110886321;800;900.0;68159;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+9;2019-05-19 01:33:10.645417;/expose/110925070;110925070;400;500.0;68199;55;2;Robert-Blum-Str;Robert-Blum-Str;6;Baden_Württemberg;Mannheim;Lindenhof
+10;2019-05-19 01:33:11.025279;/expose/110913707;110913707;700;880.0;68159;78;3;C 3;C_3;16;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:33:11.444021;/expose/110786149;110786149;870;990.0;68159;73;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:33:11.782319;/expose/110899319;110899319;1250;;68167;113;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+13;2019-05-19 01:33:12.236377;/expose/110821407;110821407;790;970.0;68199;86.5;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+14;2019-05-19 01:33:12.618675;/expose/110797008;110797008;790;990.0;68168;54;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+15;2019-05-19 01:33:12.987305;/expose/110775378;110775378;548;698.0;68305;55;2;Staudenweg;Staudenweg;28;Baden_Württemberg;Mannheim;Gartenstadt
+16;2019-05-19 01:33:13.372538;/expose/110789983;110789983;400;500.0;68199;21;1;"Adlerstra&szlig;e";Adlerstraße;41;Baden_Württemberg;Mannheim;Neckarau
+17;2019-05-19 01:33:13.764879;/expose/110911063;110911063;530;650.0;68167;48;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+18;2019-05-19 01:33:14.391467;/expose/110732290;110732290;1300;1550.0;68169;125;5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+19;2019-05-19 01:33:14.743561;/expose/110807261;110807261;990;1240.0;68165;82.41;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+0;2019-05-19 01:17:01.166495;/expose/111517790;111517790;650;800.0;68165;75;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+1;2019-05-19 01:17:01.609762;/expose/60851174;60851174;420;520.0;68159;40;1;C 1;C_1;2;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+2;2019-05-19 01:17:02.005484;/expose/111519415;111519415;400;;68163;33;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+3;2019-05-19 01:17:02.440627;/expose/96582039;96582039;745;;68165;59;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+4;2019-05-19 01:17:02.799421;/expose/60177351;60177351;860;1120.0;68199;95.64;3;Luisenstr.;Luisenstr.;20;Baden_Württemberg;Mannheim;Neckarau
+5;2019-05-19 01:17:03.205749;/expose/110185499;110185499;1640;;68161;117;3;T 4;T_4;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:17:03.661727;/expose/109876140;109876140;650;870.0;68165;87;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+7;2019-05-19 01:17:04.029037;/expose/111256737;111256737;899;1069.0;68165;57.45;1.5;Heinrich-Lanz-Str.;Heinrich-Lanz-Str.;2;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+8;2019-05-19 01:17:04.614124;/expose/58086830;58086830;750;890.0;68165;68;2;Gluckstr.;Gluckstr.;1;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+9;2019-05-19 01:17:05.135776;/expose/111403276;111403276;550;630.0;68159;37;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:17:05.485958;/expose/80363280;80363280;350;450.0;68159;26;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:17:05.857610;/expose/111480583;111480583;650;795.0;68165;57;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+12;2019-05-19 01:17:06.302404;/expose/85296119;85296119;670;870.0;68199;67.4;2;"Luisenstra&szlig;e";Luisenstraße;20;Baden_Württemberg;Mannheim;Neckarau
+13;2019-05-19 01:17:06.730766;/expose/94932709;94932709;520;660.0;68159;51;2;I 7;I_7;15;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+14;2019-05-19 01:17:07.257861;/expose/109509183;109509183;1195;1480.0;68305;95.42;3;"Gerwigstra&szlig;e";Gerwigstraße;13;Baden_Württemberg;Mannheim;Waldhof
+15;2019-05-19 01:17:07.643151;/expose/110809735;110809735;420;545.0;68167;42;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+16;2019-05-19 01:17:08.016465;/expose/109258605;109258605;890;;68305;100;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Waldhof
+17;2019-05-19 01:17:08.572000;/expose/111536199;111536199;1140;1370.0;68159;114;4;G 7;G_7;4 F;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+18;2019-05-19 01:17:08.921454;/expose/111517701;111517701;650;;68165;56;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:17:09.509629;/expose/111487505;111487505;1150;;68163;114;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+0;2019-05-19 01:37:41.571361;/expose/107981237;107981237;530;630.0;68167;55.83;2;"Carl-Benz-Stra&szlig;e";Carl-Benz-Straße;44;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+1;2019-05-19 01:37:41.969184;/expose/108908947;108908947;635;755.0;68165;52;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+2;2019-05-19 01:37:42.358724;/expose/108908938;108908938;760;910.0;68165;65;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+3;2019-05-19 01:37:42.731770;/expose/108897708;108897708;1300;;68165;95;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+4;2019-05-19 01:37:43.177522;/expose/108908472;108908472;1420;1620.0;68161;150;5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+5;2019-05-19 01:37:43.678619;/expose/108244119;108244119;790;940.0;68259;89;2.5;"H&ouml;lderlinstra&szlig;e";Hölderlinstraße;XX;Baden_Württemberg;Mannheim;Feudenheim
+6;2019-05-19 01:37:44.307892;/expose/108434738;108434738;1377;1577.0;68165;102;2;"Tullastra&szlig;e";Tullastraße;15;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+7;2019-05-19 01:37:44.751715;/expose/108209151;108209151;550;650.0;68159;20;1;L 14;L_14;2;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+8;2019-05-19 01:37:45.146757;/expose/108897979;108897979;2830;3280.0;68165;248;5.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+9;2019-05-19 01:37:45.613162;/expose/108767401;108767401;2250;2700.0;68305;170.17;3.5;Gerwigstr.;Gerwigstr.;11;Baden_Württemberg;Mannheim;Waldhof
+10;2019-05-19 01:37:46.416143;/expose/107636570;107636570;850;1100.0;68165;53;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+11;2019-05-19 01:37:46.849326;/expose/108210611;108210611;750;950.0;68239;87;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+12;2019-05-19 01:37:47.306698;/expose/108273494;108273494;680;930.0;68163;55;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+13;2019-05-19 01:37:47.929554;/expose/108892115;108892115;752;992.0;68309;88;3;Ida-Dehmel-Ring;Ida-Dehmel-Ring;68;Baden_Württemberg;Mannheim;Käfertal
+14;2019-05-19 01:37:48.462130;/expose/108908932;108908932;625;745.0;68165;52;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+15;2019-05-19 01:37:48.835862;/expose/108355188;108355188;835;1020.0;68229;85;4;Zabernerstr;Zabernerstr;23;Baden_Württemberg;Mannheim;Friedrichsfeld
+16;2019-05-19 01:37:49.201006;/expose/107809725;107809725;440;510.0;68167;50;1;"Cannabichstra&szlig;e";Cannabichstraße;XX;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+17;2019-05-19 01:37:49.648463;/expose/108908967;108908967;725;865.0;68165;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+18;2019-05-19 01:37:51.139511;/expose/108909221;108909221;740;880.0;68165;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:37:51.567974;/expose/108761553;108761553;1000;1250.0;68163;94;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+0;2019-05-19 01:15:49.902673;/expose/107443601;107443601;1295;1595;68305;99.54;3;"Gerwigstra&szlig;e";Gerwigstraße;15;Baden_Württemberg;Mannheim;Waldhof
+1;2019-05-19 01:15:50.502790;/expose/108982723;108982723;1060;1305;68305;81.52;2;"Gerwigstra&szlig;e";Gerwigstraße;13;Baden_Württemberg;Mannheim;Waldhof
+2;2019-05-19 01:15:50.983746;/expose/111278194;111278194;1030;1350;68163;105;3.5;Karl-Ladenburg-Str.;Karl-Ladenburg-Str.;27;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+3;2019-05-19 01:15:51.499004;/expose/109809832;109809832;470;610;68161;56;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+4;2019-05-19 01:15:51.941652;/expose/111416061;111416061;320;;68259;27;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+5;2019-05-19 01:15:52.677646;/expose/110770099;110770099;915;1085;68165;57.45;1.5;Heinrich-Lanz-Str.;Heinrich-Lanz-Str.;2;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+6;2019-05-19 01:15:53.104859;/expose/110143041;110143041;985;1235;68165;92;2;L 8,;L_8,;5;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:15:53.490454;/expose/106006750;106006750;1115;1365;68305;82.66;2;"Gerwigstra&szlig;e";Gerwigstraße;23;Baden_Württemberg;Mannheim;Waldhof
+8;2019-05-19 01:15:54.105203;/expose/111424641;111424641;330;;68165;36;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+9;2019-05-19 01:15:54.510361;/expose/110225639;110225639;670;832.5;68167;65;2;"Nebeniusstra&szlig;e";Nebeniusstraße;7;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+10;2019-05-19 01:15:54.868041;/expose/111312334;111312334;1930;2150;68305;202.57;5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Gartenstadt
+11;2019-05-19 01:15:55.275044;/expose/90920831;90920831;1750;2250;68309;87;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+12;2019-05-19 01:15:55.650217;/expose/98833962;98833962;800;1050;68163;94;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+13;2019-05-19 01:15:56.091589;/expose/87787791;87787791;1135;1425;68161;78.44;2;Q;Q;6, 13;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+14;2019-05-19 01:15:56.467141;/expose/110359273;110359273;1295;1570;68165;101.32;3;Heinrich-Lanz-Str.;Heinrich-Lanz-Str.;4;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+15;2019-05-19 01:15:56.851515;/expose/109206259;109206259;830;995;68165;57.45;1.5;Heinrich-Lanz-Str.;Heinrich-Lanz-Str.;2;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+16;2019-05-19 01:15:57.208376;/expose/109876768;109876768;1640;1970;68305;109.49;3;"Gerwigstra&szlig;e";Gerwigstraße;21;Baden_Württemberg;Mannheim;Waldhof
+17;2019-05-19 01:15:57.654740;/expose/76056871;76056871;1100;1350;68163;94.85;3;Feldbergstr.;Feldbergstr.;82;Baden_Württemberg;Mannheim;Lindenhof
+18;2019-05-19 01:15:58.008219;/expose/111553286;111553286;930;1150;68165;91;3;Seckenheimerstr.;Seckenheimerstr.;4-6;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:15:58.365054;/expose/111368633;111368633;900;1100;68167;99;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+20;2019-05-19 01:15:58.768330;/expose/106007326;106007326;1270;1570;68305;101.37;3;"Gerwigstra&szlig;e";Gerwigstraße;13;Baden_Württemberg;Mannheim;Waldhof
+21;2019-05-19 01:15:59.289099;/expose/107444782;107444782;2510;2960;68305;170.17;4;"Gerwigstra&szlig;e";Gerwigstraße;15;Baden_Württemberg;Mannheim;Waldhof
+22;2019-05-19 01:15:59.638187;/expose/111429051;111429051;670;965;68239;90;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+23;2019-05-19 01:16:00.087794;/expose/110241405;110241405;870;1040;68165;57.45;1.5;Heinrich-Lanz-Str.;Heinrich-Lanz-Str.;2;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+0;2019-05-19 01:44:38.034151;/expose/111531248;111531248;600;761.0;68526;57;2;Am Galgbrunnen;Am_Galgbrunnen;6;Baden_Württemberg;Rhein_Neckar_Kreis;Ladenburg
+1;2019-05-19 01:44:38.551660;/expose/110296400;110296400;745;895.0;68529;72.87;2.5;"Mozartstra&szlig;e";Mozartstraße;35;Baden_Württemberg;Rhein_Neckar_Kreis;Ilvesheim
+2;2019-05-19 01:44:38.982502;/expose/55235191;55235191;550;690.0;68309;55;2;Auf dem Sand;Auf_dem_Sand;4;Baden_Württemberg;Mannheim;Käfertal
+3;2019-05-19 01:44:39.306127;/expose/42658348;42658348;270;360.0;68307;33.72;1;Juteweg;Juteweg;2-6;Baden_Württemberg;Mannheim;Sandhofen
+4;2019-05-19 01:44:39.782490;/expose/48151308;48151308;1240;1490.0;68199;110;3;Hans-Sachs-Ring;Hans-Sachs-Ring;14;Baden_Württemberg;Mannheim;Lindenhof
+5;2019-05-19 01:44:40.190482;/expose/51217805;51217805;950;1150.0;68161;100;2;R1;R1;14a;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:44:40.658024;/expose/111411226;111411226;2640;2970.0;69126;162.5;4;"G&ouml;rresstr.";Görresstr.;70;Baden_Württemberg;Heidelberg;Südstadt
+7;2019-05-19 01:44:41.002384;/expose/56883893;56883893;850;1115.0;68309;100;3;Ida-Dehmel-Ring;Ida-Dehmel-Ring;40 A;Baden_Württemberg;Mannheim;Käfertal
+8;2019-05-19 01:44:41.374942;/expose/51540846;51540846;1280;1600.0;68199;130;3;"Lohengrinstra&szlig;e";Lohengrinstraße;39;Baden_Württemberg;Mannheim;Lindenhof
+9;2019-05-19 01:44:41.714266;/expose/111394272;111394272;990;1250.0;68789;87;3;Rheinstrasse;Rheinstrasse;130;Baden_Württemberg;Rhein_Neckar_Kreis;Sankt_Leon_Rot
+10;2019-05-19 01:44:42.055100;/expose/110463654;110463654;602;763.0;68526;57;2;Am Galgbrunnen;Am_Galgbrunnen;6;Baden_Württemberg;Rhein_Neckar_Kreis;Ladenburg
+11;2019-05-19 01:44:42.480671;/expose/90103097;90103097;500;630.0;69226;42;1.5;"Sinsheimerstra&szlig;e";Sinsheimerstraße;67;Baden_Württemberg;Rhein_Neckar_Kreis;Nußloch
+12;2019-05-19 01:44:42.907825;/expose/111398936;111398936;780;972.0;69117;48;2;no_information;no_information;no_information;Baden_Württemberg;Heidelberg;Altstadt
+13;2019-05-19 01:44:43.269102;/expose/48290007;48290007;1350;1600.0;69115;100;3;Bergheimer Str.;Bergheimer_Str.;23;Baden_Württemberg;Heidelberg;Bergheim
+14;2019-05-19 01:44:43.640210;/expose/60420272;60420272;310;395.0;68161;20;1;L;L;7, 6-6a;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+15;2019-05-19 01:44:43.993916;/expose/111290267;111290267;500;655.0;69115;34.5;1;"Rohrbacher Stra&szlig;e";Rohrbacher_Straße;6-8;Baden_Württemberg;Heidelberg;Bergheim
+16;2019-05-19 01:44:44.417888;/expose/107179169;107179169;650;800.0;74889;54;2;"Eschelbacher Stra&szlig;e";Eschelbacher_Straße;12;Baden_Württemberg;Rhein_Neckar_Kreis;Sinsheim
+17;2019-05-19 01:44:44.972809;/expose/50315042;50315042;650;;68167;72;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+18;2019-05-19 01:44:45.487772;/expose/50019436;50019436;590;900.0;68169;116;4;"Lagerstra&szlig;e";Lagerstraße;12;Baden_Württemberg;Mannheim;Neckarstadt_West
+19;2019-05-19 01:44:45.854931;/expose/56333959;56333959;1000;1250.0;68309;133;4;Veilchenstr;Veilchenstr;1;Baden_Württemberg;Mannheim;Käfertal
+0;2019-05-19 01:20:28.839727;/expose/111062735;111062735;880;980;68199;78;3;"Sedanstra&szlig;e";Sedanstraße;2;Baden_Württemberg;Mannheim;Neckarau
+1;2019-05-19 01:20:29.385764;/expose/111297821;111297821;1100;1395;68161;105;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+2;2019-05-19 01:20:29.853337;/expose/111489174;111489174;700;980;68199;72;2;Hans-Sachs-Ring;Hans-Sachs-Ring;35;Baden_Württemberg;Mannheim;Lindenhof
+3;2019-05-19 01:20:30.253596;/expose/111408149;111408149;820;990;68161;60;2;L13;L13;7;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+4;2019-05-19 01:20:30.627692;/expose/110079876;110079876;1320;1650;68199;110;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+5;2019-05-19 01:20:30.989632;/expose/110419417;110419417;1090;1330;68161;80.5;2;T4;T4;3;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:20:31.364978;/expose/101481704;101481704;250;335;68167;18.83;1;"K&auml;fertaler Stra&szlig;e";Käfertaler_Straße;133;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+7;2019-05-19 01:20:31.810593;/expose/80710037;80710037;1280;1590;68199;128;3;Lohengrinstr.;Lohengrinstr.;39;Baden_Württemberg;Mannheim;Lindenhof
+8;2019-05-19 01:20:32.422802;/expose/110864576;110864576;1069.5;1169.5;68161;89.12;3.5;Q 3;Q_3;16;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+9;2019-05-19 01:20:32.999261;/expose/111047645;111047645;1200;1450;68163;120;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+10;2019-05-19 01:20:33.486113;/expose/107599511;107599511;2722;3232;68305;170.17;4;Gerwigstrasse;Gerwigstrasse;13;Baden_Württemberg;Mannheim;Waldhof
+11;2019-05-19 01:20:33.903143;/expose/111152921;111152921;1280;1560;68159;141;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:20:34.486210;/expose/110733086;110733086;1390;1685;68161;104;3;T4;T4;3;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+13;2019-05-19 01:20:34.828090;/expose/111381202;111381202;1050;1340;68307;182;6;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Sandhofen
+14;2019-05-19 01:20:35.209583;/expose/111037983;111037983;995;1200;68161;71;2;T4;T4;3;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+15;2019-05-19 01:20:35.594782;/expose/80012157;80012157;1300;;68239;115;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+16;2019-05-19 01:20:36.001647;/expose/111139912;111139912;612;782;68169;52;2;Waldhofstr.;Waldhofstr.;78;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+17;2019-05-19 01:20:36.348759;/expose/111483248;111483248;960;1210;68161;102;3.5;S6;S6;20;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+18;2019-05-19 01:20:36.735257;/expose/111420710;111420710;650;770;68165;50;2;Schwezinger Str.;Schwezinger_Str.;28;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:20:37.161118;/expose/106437698;106437698;890;1080;68159;56;2;B 4;B_4;15;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+0;2019-05-19 01:43:29.013140;/expose/61659716;61659716;395;;68309;51.6;2;Auf dem Sand;Auf_dem_Sand;47;Baden_Württemberg;Mannheim;Käfertal
+1;2019-05-19 01:43:29.525595;/expose/65829255;65829255;915;1205.0;68219;132;5;Zum Dornbusch;Zum_Dornbusch;22;Baden_Württemberg;Mannheim;Rheinau
+2;2019-05-19 01:43:29.993402;/expose/60456800;60456800;560;680.0;68239;51;2;Kaiserstuhlring;Kaiserstuhlring;8;Baden_Württemberg;Mannheim;Seckenheim
+3;2019-05-19 01:43:30.423996;/expose/61797485;61797485;800;950.0;68259;85;3;"Gottfriedstra&szlig;e";Gottfriedstraße;1 C;Baden_Württemberg;Mannheim;Wallstadt
+4;2019-05-19 01:43:30.843384;/expose/65346110;65346110;650;900.0;68259;80;3;"Amorbacher Stra&szlig;e";Amorbacher_Straße;16;Baden_Württemberg;Mannheim;Wallstadt
+5;2019-05-19 01:43:31.225296;/expose/61922345;61922345;320;430.0;68309;32.44;1;Caroline-Jagemann-Weg;Caroline-Jagemann-Weg;3;Baden_Württemberg;Mannheim;Käfertal
+6;2019-05-19 01:43:31.560993;/expose/72450863;72450863;674.83;;68169;93.72;4;"Mittelstra&szlig;e";Mittelstraße;24;Baden_Württemberg;Mannheim;Neckarstadt_West
+7;2019-05-19 01:43:31.956987;/expose/75061034;75061034;630;;68159;60;2;Holzstr.;Holzstr.;xx;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+8;2019-05-19 01:43:32.434399;/expose/71752204;71752204;1220;1420.0;68167;106.67;4;"Uhlandstra&szlig;e ";Uhlandstraße_;1;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+9;2019-05-19 01:43:32.805257;/expose/60872265;60872265;540;650.0;68309;75;3;Enzianstr.;Enzianstr.;3;Baden_Württemberg;Mannheim;Käfertal
+10;2019-05-19 01:43:33.253350;/expose/72942312;72942312;380;;68159;26;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:43:33.645778;/expose/72836100;72836100;510;640.0;68161;43;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:43:34.101893;/expose/71079695;71079695;380;;68159;37;2;B 5,;B_5,;8;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+13;2019-05-19 01:43:34.568454;/expose/70747912;70747912;550;670.0;68165;46;2;Schwetzingerstrasse;Schwetzingerstrasse;173;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+14;2019-05-19 01:43:34.948152;/expose/79101629;79101629;945;;68159;75;3;Holzstrasse;Holzstrasse;9a;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+15;2019-05-19 01:43:35.348080;/expose/68265969;68265969;545;675.0;68159;46.55;1;B 4;B_4;4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:43:35.761086;/expose/78293098;78293098;315;;68159;30;1;Holzstr.;Holzstr.;xx;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+17;2019-05-19 01:43:36.241571;/expose/62473536;62473536;420;;68161;33;1;Collinistr. ;Collinistr._;5;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+18;2019-05-19 01:43:36.600236;/expose/61691681;61691681;480;;68167;42;1;"K&auml;fertalerstr. ";Käfertalerstr._;183;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+19;2019-05-19 01:43:37.073782;/expose/63913802;63913802;745;;68161;65;2.5;"Renzstra&szlig;e";Renzstraße;7;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+0;2019-05-19 01:30:49.589595;/expose/111180375;111180375;500;500;68159;25;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+1;2019-05-19 01:30:50.022042;/expose/111232723;111232723;700;870;68199;68;2;Luisenstr.;Luisenstr.;15;Baden_Württemberg;Mannheim;Neckarau
+2;2019-05-19 01:30:50.472114;/expose/111184191;111184191;954.73;1237.73;68229;83.02;3;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+3;2019-05-19 01:30:50.901275;/expose/111205688;111205688;1300;1550;68165;84;3;"Weidenstra&szlig;e";Weidenstraße;13;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+4;2019-05-19 01:30:51.402605;/expose/111214997;111214997;700;;68165;55;2;"Traitteurstra&szlig;e";Traitteurstraße;46;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+5;2019-05-19 01:30:51.794076;/expose/111239059;111239059;900;1150;68309;79;3.5;Stendaler Weg;Stendaler_Weg;1;Baden_Württemberg;Mannheim;Vogelstang
+6;2019-05-19 01:30:52.184249;/expose/111239896;111239896;620;705;68161;62;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:30:52.560419;/expose/111183508;111183508;943.58;1223.58;68229;82.05;3;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+8;2019-05-19 01:30:52.926021;/expose/111183081;111183081;787.41;1027.41;68229;68.47;2;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+9;2019-05-19 01:30:53.305278;/expose/111185187;111185187;1274.09;1636.09;68229;110.79;3;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+10;2019-05-19 01:30:53.672737;/expose/111251343;111251343;910;1160;68219;126;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Rheinau
+11;2019-05-19 01:30:54.049309;/expose/111184577;111184577;948.75;1231.75;68229;82.5;3;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+12;2019-05-19 01:30:54.416077;/expose/111183908;111183908;951.4;1234.4;68229;82.73;2;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+13;2019-05-19 01:30:54.848268;/expose/111183736;111183736;819.38;1069.38;68229;71.25;2;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+14;2019-05-19 01:30:55.223247;/expose/111247118;111247118;300;;68199;24;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarau
+15;2019-05-19 01:30:55.570915;/expose/111202395;111202395;450;590;68161;43;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:30:55.919657;/expose/111236935;111236935;600;740;68199;65;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarau
+17;2019-05-19 01:30:56.337931;/expose/111178130;111178130;280;280;68199;30;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarau
+18;2019-05-19 01:30:56.703564;/expose/111184354;111184354;927.25;1205.25;68229;80.63;3;Rappoltsweilerstr.;Rappoltsweilerstr.;11;Baden_Württemberg;Mannheim;Friedrichsfeld
+19;2019-05-19 01:30:57.058141;/expose/111226021;111226021;650;830;68307;85;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Sandhofen
+0;2019-05-19 01:42:20.128573;/expose/84516011;84516011;663;;68163;66;2;"Johannes-Hoffart-Stra&szlig;e";Johannes-Hoffart-Straße;24;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+1;2019-05-19 01:42:20.525266;/expose/90319426;90319426;810;;68167;80.5;3;"Waldhofstra&szlig;e";Waldhofstraße;76;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+2;2019-05-19 01:42:21.012511;/expose/87729909;87729909;510;;68165;32;1;Schwetzingerstr.;Schwetzingerstr.;37;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+3;2019-05-19 01:42:21.444268;/expose/90227798;90227798;1350;1610;68239;157;3.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+4;2019-05-19 01:42:21.920193;/expose/88273205;88273205;300;;68169;24;1;"B&uuml;rgermeister-Fuchsstr.";Bürgermeister-Fuchsstr.;17;Baden_Württemberg;Mannheim;Neckarstadt_West
+5;2019-05-19 01:42:22.397705;/expose/83164061;83164061;580;780;68309;68;2;"Gewerbstra&szlig;e";Gewerbstraße;32;Baden_Württemberg;Mannheim;Käfertal
+6;2019-05-19 01:42:22.833761;/expose/81899034;81899034;380;490;68159;35;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:42:23.226941;/expose/88651809;88651809;1387.5;1587.5;68167;111;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+8;2019-05-19 01:42:23.625539;/expose/89245854;89245854;740;940;68305;84;3;"Tannenstra&szlig;e";Tannenstraße;7;Baden_Württemberg;Mannheim;Waldhof
+9;2019-05-19 01:42:24.142653;/expose/90120973;90120973;345;;68169;27.1;1;Stockhornstr.;Stockhornstr.;45;Baden_Württemberg;Mannheim;Neckarstadt_West
+10;2019-05-19 01:42:24.572462;/expose/87410544;87410544;880;1080;68159;84;3;K4;K4;7;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:42:24.919219;/expose/83172324;83172324;950;1200;68309;103;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+12;2019-05-19 01:42:25.269043;/expose/89525516;89525516;810;940;68167;90;3;"K&auml;fertaler Stra&szlig;e";Käfertaler_Straße;30;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+13;2019-05-19 01:42:25.611634;/expose/82819038;82819038;920;;68167;112;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+14;2019-05-19 01:42:26.154078;/expose/82801546;82801546;790;980;68165;76;2;Am Oberen Luisenpark;Am_Oberen_Luisenpark;22;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+15;2019-05-19 01:42:26.534163;/expose/91728305;91728305;350;;68161;20;1;L13;L13;13;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:42:26.936579;/expose/85145851;85145851;600;700;68163;50;2;Dragonerweg;Dragonerweg;39;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+17;2019-05-19 01:42:27.335033;/expose/83481054;83481054;520;620;68199;22;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+18;2019-05-19 01:42:27.765264;/expose/84751076;84751076;890;1010;68165;78.3;3;"Karl-Ludwig-Stra&szlig;e";Karl-Ludwig-Straße;5;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:42:28.120928;/expose/90640983;90640983;790;910;68159;80;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+0;2019-05-19 01:21:38.076461;/expose/94716555;94716555;450;550;68307;38;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schönau
+1;2019-05-19 01:21:38.470434;/expose/111561767;111561767;520;;68159;54.96;2;F 4;F_4;18-19;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+2;2019-05-19 01:21:38.859875;/expose/111574374;111574374;495;611.8;68167;49;2;Soironstr.;Soironstr.;10;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+3;2019-05-19 01:21:39.296279;/expose/89505237;89505237;600;750;68167;51;2;"K&auml;fertaler Stra&szlig;e";Käfertaler_Straße;205;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+4;2019-05-19 01:21:39.918391;/expose/111564306;111564306;850;1000;68163;85.7;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+5;2019-05-19 01:21:40.426667;/expose/111561487;111561487;590;;68159;62.32;2;F 4;F_4;20;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:21:40.846206;/expose/111559901;111559901;450;575;68167;51;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+7;2019-05-19 01:21:41.273072;/expose/111579845;111579845;450;;68199;62;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+8;2019-05-19 01:21:41.859522;/expose/111341649;111341649;420;550;68159;28;1;B7;B7;16;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+9;2019-05-19 01:21:42.499399;/expose/111574803;111574803;387;387;68159;24;1;"Akademiestra&szlig;e";Akademiestraße;12;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:21:42.889896;/expose/111564536;111564536;560;630;68309;80;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+11;2019-05-19 01:21:43.267162;/expose/111561764;111561764;650;810;68305;61.7;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Gartenstadt
+12;2019-05-19 01:21:43.635822;/expose/111574230;111574230;680;860;68165;62;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+13;2019-05-19 01:21:44.036225;/expose/86863670;86863670;520;700;68219;48;1;Kropsburgstr.;Kropsburgstr.;40;Baden_Württemberg;Mannheim;Rheinau
+14;2019-05-19 01:21:44.548658;/expose/111573640;111573640;700;900;68161;135;2;U6;U6;3;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+15;2019-05-19 01:21:44.922665;/expose/111567743;111567743;800;900;68159;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:21:45.336111;/expose/111563926;111563926;360;460;65159;30;1;Kirchenstr.;Kirchenstr.;1;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+17;2019-05-19 01:21:45.718552;/expose/111577594;111577594;520;670;68165;55;2;"Viehhofstra&szlig;e";Viehhofstraße;3;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+18;2019-05-19 01:21:46.227183;/expose/111580293;111580293;450;655;68159;34;1;B2;B2;7;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+19;2019-05-19 01:21:46.598913;/expose/91472965;91472965;2250;2600;68165;155;3.5;Stresemannstr.;Stresemannstr.;22;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+0;2019-05-19 01:40:01.957069;/expose/102602723;102602723;500;;68161;35;1;L15;L15;9;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+1;2019-05-19 01:40:02.370279;/expose/102075629;102075629;850;1000.0;68309;100;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+2;2019-05-19 01:40:02.785887;/expose/103307022;103307022;1070;1270.0;68309;105;4;Thomas-Jefferson-Str.;Thomas-Jefferson-Str.;22;Baden_Württemberg;Mannheim;Käfertal
+3;2019-05-19 01:40:03.166032;/expose/100057715;100057715;489;579.0;68161;25;1;L 2;L_2;14;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+4;2019-05-19 01:40:03.527691;/expose/102978321;102978321;400;520.0;68199;45;1;"Heinrich Hoff Stra&szlig;e Ecke Niederfeldstra&szlig;e";Heinrich_Hoff_Straße_Ecke_Niederfeldstraße;22;Baden_Württemberg;Mannheim;Lindenhof
+5;2019-05-19 01:40:03.904324;/expose/101155107;101155107;330;;68309;29;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+6;2019-05-19 01:40:04.265375;/expose/103790846;103790846;460;540.0;68163;41;1;"Rheinaustra&szlig;e";Rheinaustraße;1;Baden_Württemberg;Mannheim;Lindenhof
+7;2019-05-19 01:40:04.729394;/expose/101485616;101485616;1350;1680.0;68167;138;4;Kobellstr;Kobellstr;17-19;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+8;2019-05-19 01:40:05.082672;/expose/101015430;101015430;490;610.0;68161;29.18;1;U 4,;U_4,;23;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+9;2019-05-19 01:40:05.435223;/expose/102500389;102500389;1250;1550.0;68159;120;4;G4;G4;5-6;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:40:05.755167;/expose/105001678;105001678;810;;68163;66;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+11;2019-05-19 01:40:06.114967;/expose/104905795;104905795;990;1290.0;68167;81.7;3;Eva-Hermann-Str.;Eva-Hermann-Str.;33;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+12;2019-05-19 01:40:06.620587;/expose/104297644;104297644;1200;1400.0;68159;46;1;B5;B5;3-4;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+13;2019-05-19 01:40:07.073397;/expose/102939761;102939761;490;;68199;40;1;Neckarauerstr.;Neckarauerstr.;45;Baden_Württemberg;Mannheim;Neckarau
+14;2019-05-19 01:40:07.496207;/expose/100669091;100669091;940;;68259;90;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+15;2019-05-19 01:40:07.861130;/expose/100706344;100706344;290;390.0;68159;24;1;Hafenstr.;Hafenstr.;48-52;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:40:08.231380;/expose/102068784;102068784;910;1070.0;68167;84.5;3;"Lange R&ouml;tterstra&szlig;e";Lange_Rötterstraße;76;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+17;2019-05-19 01:40:08.592986;/expose/101745809;101745809;380;510.0;68169;35;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+18;2019-05-19 01:40:09.021490;/expose/101939771;101939771;550;730.0;68219;68;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Rheinau
+19;2019-05-19 01:40:09.384664;/expose/105103605;105103605;680;830.0;68165;63.7;2;Schwetzingerstr.;Schwetzingerstr.;157;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+0;2019-05-19 01:31:58.131399;/expose/111171161;111171161;700;760;68159;54;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+1;2019-05-19 01:31:58.525868;/expose/111041158;111041158;700;760;68159;54;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+2;2019-05-19 01:31:58.923642;/expose/111076685;111076685;900;1000;68199;62;2;"Wolframstra&szlig;e";Wolframstraße;9;Baden_Württemberg;Mannheim;Lindenhof
+3;2019-05-19 01:31:59.337243;/expose/111114132;111114132;300;350;68169;40;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+4;2019-05-19 01:31:59.761310;/expose/111114495;111114495;240;321.5;68165;22.5;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+5;2019-05-19 01:32:00.224258;/expose/111170981;111170981;280;360;68169;30;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+6;2019-05-19 01:32:00.584738;/expose/111023763;111023763;850;950;68159;70;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:32:00.920096;/expose/111079892;111079892;1200;1320;68199;89;2;"Wolframstra&szlig;e";Wolframstraße;9;Baden_Württemberg;Mannheim;Lindenhof
+8;2019-05-19 01:32:01.278764;/expose/111164351;111164351;739.35;979.35;68309;98.58;4;Schweriner Weg;Schweriner_Weg;13;Baden_Württemberg;Mannheim;Vogelstang
+9;2019-05-19 01:32:01.706301;/expose/111045280;111045280;600;800;68259;78;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+10;2019-05-19 01:32:02.179222;/expose/111001507;111001507;800;900;68159;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+11;2019-05-19 01:32:02.524886;/expose/111111193;111111193;720;870;68259;80;2.5;Buchenerstrasse;Buchenerstrasse;56;Baden_Württemberg;Mannheim;Wallstadt
+12;2019-05-19 01:32:02.985755;/expose/111127824;111127824;630;780;68169;45;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+13;2019-05-19 01:32:03.488172;/expose/111154019;111154019;1400;1650;68259;136;6;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Wallstadt
+14;2019-05-19 01:32:03.973801;/expose/110945303;110945303;1150;1250;68161;94.59;3.5;M5;M5;1;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+15;2019-05-19 01:32:04.393161;/expose/110986848;110986848;1220;1510;68161;108;3.5;R 7;R_7;24;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:32:04.768925;/expose/111114386;111114386;360;526.6;68165;38;1.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+17;2019-05-19 01:32:05.149338;/expose/111096095;111096095;2150;2460;68165;153;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+18;2019-05-19 01:32:05.559579;/expose/111150993;111150993;580;710;68161;50;2;U 3;U_3;16;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+19;2019-05-19 01:32:05.973742;/expose/111090634;111090634;1150;1395;68165;98;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+0;2019-05-19 01:27:23.064963;/expose/111399074;111399074;660;830.0;68163;61;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+1;2019-05-19 01:27:23.471762;/expose/111390287;111390287;320;380.0;68199;23.5;1;"Rheingoldstra&szlig;e";Rheingoldstraße;79;Baden_Württemberg;Mannheim;Neckarau
+2;2019-05-19 01:27:23.913962;/expose/111388066;111388066;690;800.0;68165;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+3;2019-05-19 01:27:24.359919;/expose/111403359;111403359;800;900.0;68159;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+4;2019-05-19 01:27:24.736454;/expose/111394095;111394095;1100;1350.0;68259;92;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+5;2019-05-19 01:27:25.227852;/expose/111394661;111394661;850;1010.0;68305;97;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Gartenstadt
+6;2019-05-19 01:27:25.666084;/expose/111394681;111394681;275;350.0;68165;23;1;"Heinrich-Lanz-Stra&szlig;e";Heinrich-Lanz-Straße;12;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+7;2019-05-19 01:27:26.089945;/expose/111399702;111399702;1350;;68259;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+8;2019-05-19 01:27:26.521897;/expose/111408196;111408196;820;880.0;68169;70;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+9;2019-05-19 01:27:26.899082;/expose/111399992;111399992;1100;1350.0;68165;100;3;"Richard-Wagner Stra&szlig;e";Richard-Wagner_Straße;65;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+10;2019-05-19 01:27:27.242236;/expose/111398222;111398222;750;910.0;68309;80;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+11;2019-05-19 01:27:27.627809;/expose/111394274;111394274;1430;;68165;130;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+12;2019-05-19 01:27:28.037150;/expose/111382261;111382261;415;;68169;61;2;Waldhofstr.;Waldhofstr.;226;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+13;2019-05-19 01:27:28.405389;/expose/111395533;111395533;590;690.0;68259;50;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+14;2019-05-19 01:27:28.828420;/expose/111379163;111379163;620;900.0;68219;87;2.5;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Rheinau
+15;2019-05-19 01:27:29.206274;/expose/111399601;111399601;560;690.0;68199;55;2;"Neckarauer Stra&szlig;e";Neckarauer_Straße;209;Baden_Württemberg;Mannheim;Lindenhof
+16;2019-05-19 01:27:29.570010;/expose/111379845;111379845;1290;1490.0;68167;105;3;"Max-Joseph-Stra&szlig;e";Max-Joseph-Straße;17;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+17;2019-05-19 01:27:30.068204;/expose/111381514;111381514;755;935.0;68163;75;3;"Windeckstra&szlig;e";Windeckstraße;9;Baden_Württemberg;Mannheim;Lindenhof
+18;2019-05-19 01:27:30.514576;/expose/111394957;111394957;380;500.0;68165;27;1;"Schwetzinger Stra&szlig;e";Schwetzinger_Straße;47;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+19;2019-05-19 01:27:30.968858;/expose/111394961;111394961;750;;68239;72;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+0;2019-05-19 01:35:24.411579;/expose/109790855;109790855;630;780;68259;60;2;Hauptstr.;Hauptstr.;4-6;Baden_Württemberg;Mannheim;Feudenheim
+1;2019-05-19 01:35:24.764278;/expose/110255994;110255994;1350;1600;68199;110;3;"Friedrichstra&szlig;e";Friedrichstraße;48;Baden_Württemberg;Mannheim;Neckarau
+2;2019-05-19 01:35:25.161554;/expose/109747155;109747155;440;590;68165;36;1;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+3;2019-05-19 01:35:25.638925;/expose/109745514;109745514;1270;1570;68305;101.37;3;"Gerwigstra&szlig;e";Gerwigstraße;23;Baden_Württemberg;Mannheim;Waldhof
+4;2019-05-19 01:35:26.042119;/expose/109876890;109876890;1465;1755;68305;97.69;3;"Gerwigstra&szlig;e";Gerwigstraße;21;Baden_Württemberg;Mannheim;Waldhof
+5;2019-05-19 01:35:26.390087;/expose/109798620;109798620;1000;;68165;72;2;"Weidenstra&szlig;e";Weidenstraße;13;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+6;2019-05-19 01:35:26.771688;/expose/109874175;109874175;550.41;819.41;68169;78.63;3;Am Weingarten;Am_Weingarten;8;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+7;2019-05-19 01:35:27.172857;/expose/110240064;110240064;710;910;68169;76;3;Ackerstr.;Ackerstr.;18;Baden_Württemberg;Mannheim;Neckarstadt_West
+8;2019-05-19 01:35:27.667462;/expose/109680472;109680472;380;470;68199;22.5;1;Neckarauer Str.;Neckarauer_Str.;215-217;Baden_Württemberg;Mannheim;Lindenhof
+9;2019-05-19 01:35:28.020716;/expose/110261109;110261109;1340;1600;68199;117;3;"Friedrichstra&szlig;e";Friedrichstraße;48;Baden_Württemberg;Mannheim;Neckarau
+10;2019-05-19 01:35:28.466724;/expose/109954638;109954638;610;760;68305;70;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Waldhof
+11;2019-05-19 01:35:28.909317;/expose/110113737;110113737;790;790;68239;83;4;"Rastatter Stra&szlig;e";Rastatter_Straße;24;Baden_Württemberg;Mannheim;Seckenheim
+12;2019-05-19 01:35:29.319761;/expose/110065735;110065735;790;;68165;68;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+13;2019-05-19 01:35:29.725737;/expose/110089637;110089637;860;1090;68305;83;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Gartenstadt
+14;2019-05-19 01:35:30.138054;/expose/109865792;109865792;1350;1650;68239;117;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+15;2019-05-19 01:35:30.545432;/expose/110261489;110261489;1280;1500;68199;107;4;"Friedrichstra&szlig;e";Friedrichstraße;48;Baden_Württemberg;Mannheim;Neckarau
+16;2019-05-19 01:35:30.924753;/expose/109938639;109938639;1200;1520;68309;124;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Käfertal
+17;2019-05-19 01:35:31.279064;/expose/110126440;110126440;890;1190;68239;90;3;Kaiserstuhlring;Kaiserstuhlring;10;Baden_Württemberg;Mannheim;Seckenheim
+18;2019-05-19 01:35:31.620856;/expose/109714862;109714862;1300;1580;68219;208;4;"Neuhofer Stra&szlig;e";Neuhofer_Straße;1;Baden_Württemberg;Mannheim;Rheinau
+19;2019-05-19 01:35:32.018910;/expose/110043604;110043604;1950;2300;68167;136.6;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+0;2019-05-19 01:25:05.888716;/expose/111493235;111493235;610;780.0;68167;65;2;"K&auml;fertaler Stra&szlig;e";Käfertaler_Straße;41;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+1;2019-05-19 01:25:06.230980;/expose/111474800;111474800;1287;1507.0;68161;117.23;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+2;2019-05-19 01:25:06.570605;/expose/111480836;111480836;520;720.0;68309;58;2;Ida-Dehmel-Ring;Ida-Dehmel-Ring;28;Baden_Württemberg;Mannheim;Käfertal
+3;2019-05-19 01:25:07.031795;/expose/111490150;111490150;980;;68199;100;4;"Traubenstra&szlig;e";Traubenstraße;11;Baden_Württemberg;Mannheim;Neckarau
+4;2019-05-19 01:25:07.398025;/expose/111483146;111483146;1070;1290.0;68165;90;3.5;Burgstr.;Burgstr.;28;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+5;2019-05-19 01:25:07.767674;/expose/111461895;111461895;810;920.0;68309;74;2;Ida-Dehmel-Ring;Ida-Dehmel-Ring;76;Baden_Württemberg;Mannheim;Käfertal
+6;2019-05-19 01:25:08.140897;/expose/111480770;111480770;800;900.0;68159;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+7;2019-05-19 01:25:08.547154;/expose/111472145;111472145;850;1030.0;68239;75;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+8;2019-05-19 01:25:08.927590;/expose/111463976;111463976;720;900.0;68259;78;3;Elritzenweg;Elritzenweg;16;Baden_Württemberg;Mannheim;Wallstadt
+9;2019-05-19 01:25:09.317552;/expose/111480782;111480782;990;1110.0;68159;62;2;"Hafenstra&szlig;e";Hafenstraße;31;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+10;2019-05-19 01:25:09.688044;/expose/111489984;111489984;930;1130.0;68259;90;3;Wingertsbuckel;Wingertsbuckel;66;Baden_Württemberg;Mannheim;Feudenheim
+11;2019-05-19 01:25:10.110307;/expose/111465919;111465919;570;770.0;68159;57;2;C8;C8;6;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+12;2019-05-19 01:25:10.515042;/expose/111461838;111461838;400;490.0;68163;42;1;"Rheindammstra&szlig;e";Rheindammstraße;37;Baden_Württemberg;Mannheim;Lindenhof
+13;2019-05-19 01:25:10.865968;/expose/111494435;111494435;260;350.0;68159;16.5;1;F4;F4;14-15;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+14;2019-05-19 01:25:11.227928;/expose/111469145;111469145;940;1110.0;68199;99;4;"M&ouml;nchw&ouml;rthstra&szlig;e";Mönchwörthstraße;68;Baden_Württemberg;Mannheim;Lindenhof
+15;2019-05-19 01:25:11.608698;/expose/111473391;111473391;520;650.0;68199;27;1;"Neckarauer Stra&szlig;e";Neckarauer_Straße;199;Baden_Württemberg;Mannheim;Lindenhof
+16;2019-05-19 01:25:12.063986;/expose/111496961;111496961;1400;1750.0;68159;116;4;B 6;B_6;18;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+17;2019-05-19 01:25:12.409668;/expose/111494152;111494152;1250;1400.0;68165;125;3;Seckenheimerstr.;Seckenheimerstr.;27;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+18;2019-05-19 01:25:12.732493;/expose/111479483;111479483;760;935.0;68159;74;3;"Werftstra&szlig;e";Werftstraße;41;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+19;2019-05-19 01:25:13.136345;/expose/111473112;111473112;1300;1730.0;68239;124;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+0;2019-05-19 01:22:47.515623;/expose/111547013;111547013;415;;68169;61;2;Waldhofstr.;Waldhofstr.;226;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+1;2019-05-19 01:22:47.981075;/expose/111558302;111558302;437.46;615.46;68199;57.56;2;Wolframstr.;Wolframstr.;6;Baden_Württemberg;Mannheim;Lindenhof
+2;2019-05-19 01:22:48.390134;/expose/111525782;111525782;680;;68163;68.38;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Lindenhof
+3;2019-05-19 01:22:48.862177;/expose/111553354;111553354;1750;2225;68165;119.46;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+4;2019-05-19 01:22:49.276536;/expose/111543379;111543379;635;;68259;60;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Feudenheim
+5;2019-05-19 01:22:49.675682;/expose/111523717;111523717;450;550;68161;26;1;L10;L10;13;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+6;2019-05-19 01:22:51.131870;/expose/111556792;111556792;1100;1270;68169;100;4;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_West
+7;2019-05-19 01:22:51.618469;/expose/111546666;111546666;480;480;68219;58;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Rheinau
+8;2019-05-19 01:22:51.980174;/expose/111539434;111539434;415;;68169;61;2;Waldhofstr.;Waldhofstr.;226;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+9;2019-05-19 01:22:52.368054;/expose/111547969;111547969;600;760;68163;62.86;2;Ernst-Barlach-Allee;Ernst-Barlach-Allee;33;Baden_Württemberg;Mannheim;Neuostheim_/_Neuhermsheim
+10;2019-05-19 01:22:52.740831;/expose/111541147;111541147;600;;68307;62;2.5;Riedlach;Riedlach;xxx;Baden_Württemberg;Mannheim;Sandhofen
+11;2019-05-19 01:22:53.183125;/expose/111553415;111553415;492.18;656.18;68199;64.76;2;Rheingoldstr.;Rheingoldstr.;124;Baden_Württemberg;Mannheim;Lindenhof
+12;2019-05-19 01:22:53.611899;/expose/111553111;111553111;500;;68167;53;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+13;2019-05-19 01:22:53.977108;/expose/111539190;111539190;1150;1350;68161;120;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+14;2019-05-19 01:22:54.390731;/expose/111532578;111532578;1130;1420;68165;103.5;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Schwetzingerstadt_/_Oststadt
+15;2019-05-19 01:22:54.834736;/expose/111543425;111543425;950;;68159;103;3;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Innenstadt_/_Jungbusch
+16;2019-05-19 01:22:55.272155;/expose/111555561;111555561;415;;68169;61;2;Waldhofstr.;Waldhofstr.;226;Baden_Württemberg;Mannheim;Neckarstadt_Ost_/_Wohlgelegen
+17;2019-05-19 01:22:55.696280;/expose/111551510;111551510;500;600;68163;50;1;"Eichelsheimerstra&szlig;e";Eichelsheimerstraße;22;Baden_Württemberg;Mannheim;Lindenhof
+18;2019-05-19 01:22:56.106401;/expose/111525651;111525651;520;;68239;63.59;2;no_information;no_information;no_information;Baden_Württemberg;Mannheim;Seckenheim
+19;2019-05-19 01:22:56.538389;/expose/111558181;111558181;306.96;421.96;68199;40.39;1;Wolframstr.;Wolframstr.;6;Baden_Württemberg;Mannheim;Lindenhof
