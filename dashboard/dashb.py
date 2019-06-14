@@ -286,12 +286,17 @@ def update_histogram(clickData):
 	housing_id = clickData["points"][0]["customdata"]
 	housing_loc = housing.loc[housing["obj_scoutId"] == housing_id]
 	adress =  housing_loc.iloc[0]["fulladdress"]
+	colors = [10,15,20,25,30,35]
 	return {
 		"data": [
 			go.Bar(
 				x = ["Bildung", "Gesundheit", "Freizeit", "Shopping", "Geld", "Öffentliche Gebäude", "Gastwirtschaft"],
 				y = [housing_loc.iloc[0]["educationScore"], housing_loc.iloc[0]["healthScore"], housing_loc.iloc[0]["leisureScore"], housing_loc.iloc[0]["shoppingScore"],
-				   housing_loc.iloc[0]["moneyScore"], housing_loc.iloc[0]["publicScore"], housing_loc.iloc[0]["cateringScore"]]
+				   housing_loc.iloc[0]["moneyScore"], housing_loc.iloc[0]["publicScore"], housing_loc.iloc[0]["cateringScore"]],
+			marker={
+				'color': colors,
+				'colorscale': 'Viridis'
+			}
 			)
 		],
 		"layout" : go.Layout(
